@@ -1,0 +1,146 @@
+type Query {
+  book(_id: ID!): LibraryBookEntity
+  findBookBySlug(slug: String!): LibraryBookEntity
+  findBookByCategory(category: String!, first: Int, after: ID, last: Int, before: ID): LibraryBookEntityCursorPagingConnection
+  books(first: Int, after: String, last: Int, before: String, orderBy: BookOrder = {field: UPDATED_AT}): LibraryBookEntityCursorPagingConnection
+
+  chapter(_id: ID!): LibraryChapterEntity
+  chapters(first: Int, after: String, last: Int, before: String): LibraryChapterEntityConnection
+  findChapterBySlug(slug: String!): LibraryChapterEntity
+  findChapterByBookSlug(slug: String!, first: Int, after: ID, last: Int, before: ID): LibraryChapterEntityConnection
+  findChaptersByBookSlugOffsetPaging(slug: String!, first: Int, last: Int, offset: Int): LibraryChapterEntityOffsetPagingConnection
+}
+
+type Mutation {
+  "Create a new book."
+  createNewBook(input: CreateNewBookInput!, skipError: Boolean): CreateNewBookPayload
+
+  "Create a new chapter."
+  createNewChapter(input: CreateNewChapterInput!, skipError: Boolean): CreateNewChapterPayload
+
+  "Delete a book."
+  deleteBook(input: DeleteBookInput!): DeleteBookPayload
+
+  "Delete a chapter."
+  deleteChapter(input: DeleteChapterInput!): DeleteChapterPayload
+
+  "Delete chapters."
+  deleteChapters(input: DeleteChaptersInput!): DeleteChaptersPayload
+}
+
+enum BookOrderField {
+  "Order by created time."
+  CREATED_AT
+
+  "Order by updated time."
+  UPDATED_AT
+}
+
+# Ordering options for book connections
+input BookOrder {
+  "The field to book by."
+  field: BookOrderField!
+}
+
+input DeleteBookInput {
+  slug: String!
+}
+
+input DeleteChapterInput {
+  id: ID!
+}
+
+input DeleteChaptersInput {
+  ids: [ID]!
+}
+
+type DeleteBookPayload {
+  _id: ID
+}
+
+type DeleteChapterPayload {
+  _id: ID
+}
+
+type DeleteChaptersPayload {
+  _ids: [ID]
+}
+
+input CreateNewBookInput {
+  slug: String
+  title: String
+  description: String
+  cover: ObjectId
+  categories: [ObjectId]
+  connections: [String]
+}
+
+input CreateNewChapterInput {
+  slug: String
+  title: String
+  book: ObjectId
+  cover: ObjectId
+  number: Float
+  releaseDate: Date
+  images: [ObjectId]
+  connections: [String]
+}
+
+type CreateNewBookPayload {
+  book: LibraryBookEntity
+}
+
+type CreateNewChapterPayload {
+  chapter: LibraryChapterEntity
+}
+
+type LibraryBookEntityCursorPagingConnection {
+  pageInfo: PageInfoWithCursor
+  edges: [LibraryBookEntity]
+}
+
+type ConnectionEntity {
+  id: String
+  url: String
+}
+
+type LibraryBookEntity implements Node {
+  _id: ID!
+  title: String
+  slug: String
+  description: String
+  cover: MediaPictureEntity
+  categories: [CatalogCategoryEntity]
+  totalChapters: Int
+  relatedBooks: [LibraryBookEntity]
+  connections: [ConnectionEntity]
+
+  createdAt: Date
+  updatedAt: Date
+}
+
+type LibraryChapterEntityConnection {
+  pageInfo: PageInfoWithCursor
+  edges: [LibraryChapterEntity]
+}
+
+type LibraryChapterEntityOffsetPagingConnection {
+  pageInfo: PageInfoWithOffset
+  edges: [LibraryChapterEntity]
+}
+
+type LibraryChapterEntity implements Node {
+  _id: ID!
+  title: String
+  slug: String
+  number: Float
+  releaseDate: Date
+  book: LibraryBookEntity
+  cover: MediaPictureEntity
+  images: [MediaPictureEntity]
+  connections: [ConnectionEntity]
+  nextChapter: [LibraryChapterEntity]
+
+  createdAt: Date
+  updatedAt: Date
+}

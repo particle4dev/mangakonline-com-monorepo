@@ -1,0 +1,40 @@
+type Query {
+  user(_id: ID!): AuthUserEntity
+  me: AuthUserEntity @isAuthenticated
+}
+
+type AuthUserEntityEmail {
+  address: String
+  verified: Boolean
+}
+
+type AuthUserEntityProfile {
+  picture: String
+  fullname: String
+}
+
+type AuthUserEntityServiceFacebook {
+  id: String
+  accessToken: String
+  tokenExpire: Date
+}
+
+type AuthUserEntityServicePassword {
+  bcrypt: String
+}
+
+type AuthUserEntityService {
+  facebook: AuthUserEntityServiceFacebook
+  password: AuthUserEntityServicePassword
+}
+
+type AuthUserEntity implements Node {
+  _id: ID!
+  username: String
+  emails: [AuthUserEntityEmail]
+  profile: AuthUserEntityProfile
+  services: AuthUserEntityService
+
+  createdAt: Date
+  updatedAt: Date
+}

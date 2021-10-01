@@ -1,0 +1,14 @@
+{
+  "name": "data-access-nest-crawling-module",
+  "version": "0.1.0",
+  "license": "UNLICENSED",
+  "devDependencies": {},
+  "peerDependencies": {},
+  "dependencies": {
+    "@nestjs/common": "^8.0.6",
+    "@nestjs/config": "^1.0.1",
+    "@nestjs/mongoose": "^8.0.1",
+    "dataloader": "^2.0.0",
+    "mongoose": "5.13.7"
+  }
+}

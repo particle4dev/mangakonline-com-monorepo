@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductName should render successfully 1`] = `
+<body>
+  <div>
+    <div
+      class="ProductName-root-1"
+    >
+      <a
+        data-label="Site Name"
+        href="/"
+      >
+        <span
+          class="ProductName-productName-2"
+        >
+          test
+        </span>
+      </a>
+    </div>
+  </div>
+</body>
+`;

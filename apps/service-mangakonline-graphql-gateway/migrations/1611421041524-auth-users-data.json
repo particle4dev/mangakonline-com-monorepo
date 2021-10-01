@@ -1,0 +1,14 @@
+[{
+  "_id": "5fd1ec53c83510b2c3e4f6ea",
+  "username": "john",
+  "roles": ["user"],
+  "services": {
+    "password": {
+      "bcrypt": "$2b$10$0.UZvsO8poYutqUZ6TYYWuYmabrWZ8VZBXBz5FHxvmfBIjp7lScva"
+    }
+  },
+  "profile": {
+    "fullname": "john",
+    "gender": "male"
+  }
+}]

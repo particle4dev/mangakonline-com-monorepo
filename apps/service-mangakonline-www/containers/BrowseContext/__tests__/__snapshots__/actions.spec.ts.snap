@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`containers/BrowseContext/actions/updatePath should updatePath should create updatePath action 1`] = `
+Object {
+  "payload": Object {
+    "params": Object {
+      "pathname": "/path",
+      "query": Object {},
+    },
+  },
+  "type": "components/BrowseContext/UPDATE_PATH",
+}
+`;

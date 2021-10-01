@@ -1,0 +1,8 @@
+{
+  "name": "@penguin-ui/unaccented",
+  "version": "1.3.0",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

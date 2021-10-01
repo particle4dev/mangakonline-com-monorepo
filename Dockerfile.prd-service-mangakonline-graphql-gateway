@@ -1,0 +1,46 @@
+# Install dependencies only when needed
+FROM node:lts-alpine AS deps
+
+WORKDIR /opt/app
+COPY package.json yarn.lock /opt/app/
+COPY apps/service-mangakonline-graphql-gateway/package.json /opt/app/apps/service-mangakonline-graphql-gateway/package.json
+COPY libs/data-access-nest-auth-module/package.json /opt/app/libs/data-access-nest-auth-module/package.json
+RUN yarn install --frozen-lockfile
+
+# Rebuild the source code only when needed
+# This is where because may be the case that you would try
+# to build the app based on some `X_TAG` in my case (Git commit hash)
+# but the code hasn't changed.
+FROM node:lts-alpine AS builder
+
+ENV NODE_ENV=production
+WORKDIR /opt/app
+COPY . .
+COPY --from=deps /opt/app/node_modules ./node_modules
+COPY --from=deps /opt/app/apps/service-mangakonline-graphql-gateway/node_modules ./apps/service-mangakonline-graphql-gateway/node_modules
+# COPY --from=deps /opt/app/libs/data-access-nest-auth-module/node_modules ./libs/data-access-nest-auth-module/node_modules
+RUN npx nx build service-mangakonline-graphql-gateway
+RUN find ./apps/service-mangakonline-graphql-gateway -name '*.graphql' -exec cp \{\} ./dist/apps/service-mangakonline-graphql-gateway \;
+
+# Production image, copy all the files and run next
+FROM particle4dev/node:node-12.18.0-dumb-1.2.2 AS runner
+LABEL description="This is dockerfile for building production images"
+
+ARG X_TAG
+
+# Set a working directory
+WORKDIR /usr/src/app
+ENV NODE_ENV=production
+
+COPY --from=builder /opt/app/apps/service-mangakonline-graphql-gateway/package.json /usr/src/app/
+COPY --from=builder /opt/app/yarn.lock /usr/src/app/
+
+RUN apk add --no-cache make gcc g++ python
+RUN npm install --production --no-progress --ignore-scripts
+RUN npm rebuild bcrypt --build-from-source && \
+  apk del make gcc g++ python
+
+# Copy application files
+COPY --from=builder /opt/app/dist/apps/service-mangakonline-graphql-gateway /usr/src/app
+
+CMD [ "npm", "start" ]

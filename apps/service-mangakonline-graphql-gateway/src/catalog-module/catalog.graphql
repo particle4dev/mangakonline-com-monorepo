@@ -1,0 +1,42 @@
+type Query {
+  category(_id: ID!): CatalogCategoryEntity
+  findCategoryByLabel(label: String): CatalogCategoryEntity
+  findCategoryBySlug(slug: String): CatalogCategoryEntity
+  categories(first: Int, after: ID, last: Int, before: ID): CatalogCategoryEntityCursorPagingConnection
+  findCategoriesByIds(ids: [ObjectId]!): [CatalogCategoryEntity]
+}
+
+type Mutation {
+  "Create a new category."
+  createNewCategory(input: CreatingNewCategoryInput!, skipError: Boolean): CreatingNewCategoryPayload
+}
+
+input CreatingNewCategoryInput {
+  slug: String!,
+  label: String!,
+  description: String,
+  parent: ObjectId
+}
+
+type CreatingNewCategoryPayload {
+  category: CatalogCategoryEntity
+}
+
+type CatalogCategoryEntityCursorPagingConnection {
+  pageInfo: PageInfoWithCursor
+  edges: [CatalogCategoryEntity]
+}
+
+type CatalogCategoryEntity implements Node {
+  _id: ID!
+  slug: String
+  label: String
+  weight: Int
+  level: Int
+  description: String
+  parent: CatalogCategoryEntity
+  images: [MediaPictureEntity]
+
+  createdAt: Date
+  updatedAt: Date
+}

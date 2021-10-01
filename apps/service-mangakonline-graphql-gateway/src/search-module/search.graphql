@@ -1,0 +1,30 @@
+type Query {
+  search(query: String = "", type: String = "", limit: Int = 50, offset: Int = 0): SearchResultEntityConnection
+}
+
+type Mutation {
+  "Add a new document."
+  addNewDocument(input: AddNewDocumentInput!): SearchResultEntity
+  addNewDocuments(input: [AddNewDocumentInput]!): [SearchResultEntity]
+}
+
+input AddNewDocumentInput {
+  _id: ID!
+  slug: String
+  title: String
+  type: String
+  cover: ID
+}
+
+type SearchResultEntity implements Node {
+  _id: ID!
+  slug: String
+  title: String
+  type: String
+  cover: MediaPictureEntity
+}
+
+type SearchResultEntityConnection {
+  pageInfo: PageInfoWithOffset
+  edges: [SearchResultEntity]
+}

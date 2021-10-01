@@ -1,0 +1,21 @@
+type Query {
+  getReviews: [Review]
+  review(id: ID!): Review
+}
+
+type Mutation {
+  createReview(createReviewInput: CreateReviewInput): Review
+}
+
+type Subscription {
+  reviewCreated: Review
+}
+
+type Review {
+  id: Int
+  detail: String
+}
+
+input CreateReviewInput {
+  detail: String
+}

@@ -1,0 +1,1062 @@
+{
+  "version": 2,
+  "cli": {
+    "defaultCollection": "@nrwl/next"
+  },
+  "generators": {
+    "@nrwl/react": {
+      "application": {
+        "babel": true
+      }
+    },
+    "@nrwl/next": {
+      "application": {
+        "style": "css",
+        "linter": "eslint"
+      }
+    }
+  },
+  "projects": {
+    "data-access-constants": {
+      "root": "libs/data-access-constants",
+      "sourceRoot": "libs/data-access-constants/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": ["libs/data-access-constants/**/*.ts"]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/data-access-constants"],
+          "options": {
+            "jestConfig": "libs/data-access-constants/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "data-access-mangakonline-events": {
+      "root": "libs/data-access-mangakonline-events",
+      "sourceRoot": "libs/data-access-mangakonline-events/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": ["libs/data-access-mangakonline-events/**/*.ts"]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/data-access-mangakonline-events"],
+          "options": {
+            "jestConfig": "libs/data-access-mangakonline-events/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "data-access-migrate-mongoose": {
+      "root": "libs/data-access-migrate-mongoose",
+      "sourceRoot": "libs/data-access-migrate-mongoose/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": ["libs/data-access-migrate-mongoose/**/*.ts"]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/data-access-migrate-mongoose"],
+          "options": {
+            "jestConfig": "libs/data-access-migrate-mongoose/jest.config.js",
+            "passWithNoTests": true
+          }
+        },
+        "build": {
+          "executor": "@nrwl/node:package",
+          "outputs": ["{options.outputPath}"],
+          "options": {
+            "outputPath": "dist/libs/data-access-migrate-mongoose",
+            "tsConfig": "libs/data-access-migrate-mongoose/tsconfig.lib.json",
+            "packageJson": "libs/data-access-migrate-mongoose/package.json",
+            "main": "libs/data-access-migrate-mongoose/src/index.ts",
+            "assets": ["libs/data-access-migrate-mongoose/*.md"]
+          }
+        }
+      }
+    },
+    "data-access-nest-auth-module": {
+      "root": "libs/data-access-nest-auth-module",
+      "sourceRoot": "libs/data-access-nest-auth-module/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": ["libs/data-access-nest-auth-module/**/*.ts"]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/data-access-nest-auth-module"],
+          "options": {
+            "jestConfig": "libs/data-access-nest-auth-module/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "data-access-nest-catalog-module": {
+      "root": "libs/data-access-nest-catalog-module",
+      "sourceRoot": "libs/data-access-nest-catalog-module/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": ["libs/data-access-nest-catalog-module/**/*.ts"]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/data-access-nest-catalog-module"],
+          "options": {
+            "jestConfig": "libs/data-access-nest-catalog-module/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "data-access-nest-crawling-module": {
+      "root": "libs/data-access-nest-crawling-module",
+      "sourceRoot": "libs/data-access-nest-crawling-module/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/data-access-nest-crawling-module/**/*.ts"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/data-access-nest-crawling-module"],
+          "options": {
+            "jestConfig": "libs/data-access-nest-crawling-module/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "data-access-nest-media-module": {
+      "root": "libs/data-access-nest-media-module",
+      "sourceRoot": "libs/data-access-nest-media-module/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": ["libs/data-access-nest-media-module/**/*.ts"]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/data-access-nest-media-module"],
+          "options": {
+            "jestConfig": "libs/data-access-nest-media-module/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "service-mangakonline-graphql-gateway": {
+      "root": "apps/service-mangakonline-graphql-gateway",
+      "sourceRoot": "apps/service-mangakonline-graphql-gateway/src",
+      "projectType": "application",
+      "prefix": "service-mangakonline-graphql-gateway",
+      "targets": {
+        "build": {
+          "executor": "@nrwl/node:build",
+          "outputs": ["{options.outputPath}"],
+          "options": {
+            "outputPath": "dist/apps/service-mangakonline-graphql-gateway",
+            "main": "apps/service-mangakonline-graphql-gateway/src/main.ts",
+            "tsConfig": "apps/service-mangakonline-graphql-gateway/tsconfig.app.json",
+            "assets": ["apps/service-mangakonline-graphql-gateway/src/assets"]
+          },
+          "configurations": {
+            "production": {
+              "optimization": true,
+              "extractLicenses": true,
+              "inspect": false,
+              "fileReplacements": [
+                {
+                  "replace": "apps/service-mangakonline-graphql-gateway/src/environments/environment.ts",
+                  "with": "apps/service-mangakonline-graphql-gateway/src/environments/environment.prod.ts"
+                }
+              ]
+            }
+          }
+        },
+        "serve": {
+          "executor": "@nrwl/node:execute",
+          "options": {
+            "buildTarget": "service-mangakonline-graphql-gateway:build"
+          }
+        },
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "apps/service-mangakonline-graphql-gateway/**/*.ts"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/apps/service-mangakonline-graphql-gateway"],
+          "options": {
+            "jestConfig": "apps/service-mangakonline-graphql-gateway/jest.config.js",
+            "passWithNoTests": true
+          }
+        },
+        "generate-typings": {
+          "executor": "@nrwl/workspace:run-commands",
+          "options": {
+            "command": "node tools/scripts/generate-typings.js --app service-mangakonline-graphql-gateway"
+          }
+        }
+      }
+    },
+    "service-mangakonline-www": {
+      "root": "apps/service-mangakonline-www",
+      "sourceRoot": "apps/service-mangakonline-www",
+      "projectType": "application",
+      "targets": {
+        "build": {
+          "executor": "@nrwl/next:build",
+          "outputs": ["{options.outputPath}"],
+          "options": {
+            "root": "apps/service-mangakonline-www",
+            "outputPath": "dist/apps/service-mangakonline-www"
+          },
+          "configurations": {
+            "production": {}
+          }
+        },
+        "serve": {
+          "executor": "@nrwl/next:server",
+          "options": {
+            "buildTarget": "service-mangakonline-www:build",
+            "dev": true,
+            "port": 4200,
+            "proxyConfig": "apps/service-mangakonline-www/proxy.conf.json",
+            "customServerPath": "server/dev.js"
+          },
+          "configurations": {
+            "production": {
+              "buildTarget": "service-mangakonline-www:build:production",
+              "dev": false,
+              "customServerPath": "server/dev.js"
+            }
+          }
+        },
+        "export": {
+          "executor": "@nrwl/next:export",
+          "options": {
+            "buildTarget": "service-mangakonline-www:build:production"
+          }
+        },
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "apps/service-mangakonline-www/**/*.{ts,tsx,js,jsx}"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/apps/service-mangakonline-www"],
+          "options": {
+            "jestConfig": "apps/service-mangakonline-www/jest.config.js",
+            "passWithNoTests": true
+          }
+        },
+        "storybook": {
+          "executor": "@nrwl/storybook:storybook",
+          "options": {
+            "uiFramework": "@storybook/react",
+            "port": 4400,
+            "host": "0.0.0.0",
+            "config": {
+              "configFolder": "apps/service-mangakonline-www/.storybook"
+            }
+          },
+          "configurations": {
+            "ci": {
+              "quiet": true
+            }
+          }
+        },
+        "build-storybook": {
+          "executor": "@nrwl/storybook:build",
+          "options": {
+            "uiFramework": "@storybook/react",
+            "outputPath": "dist/storybook/service-mangakonline-www",
+            "config": {
+              "configFolder": "apps/service-mangakonline-www/.storybook"
+            }
+          },
+          "configurations": {
+            "ci": {
+              "quiet": true
+            }
+          }
+        },
+        "generate-static-types": {
+          "executor": "@nrwl/workspace:run-commands",
+          "options": {
+            "commands": [
+              {
+                "command": "apollo client:codegen --config apollo.config.js --target typescript",
+                "forwardAllArgs": false
+              }
+            ],
+            "cwd": "apps/service-mangakonline-www"
+          }
+        },
+        "generate-possible-types": {
+          "executor": "@nrwl/workspace:run-commands",
+          "options": {
+            "command": "node tools/scripts/generate-possible-types.js --app service-mangakonline-www"
+          }
+        }
+      }
+    },
+    "service-mangakonline-www-e2e": {
+      "root": "apps/service-mangakonline-www-e2e",
+      "sourceRoot": "apps/service-mangakonline-www-e2e/src",
+      "projectType": "application",
+      "targets": {
+        "e2e": {
+          "executor": "@nrwl/cypress:cypress",
+          "options": {
+            "cypressConfig": "apps/service-mangakonline-www-e2e/cypress.json",
+            "tsConfig": "apps/service-mangakonline-www-e2e/tsconfig.e2e.json",
+            "devServerTarget": "service-mangakonline-www:serve"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "service-mangakonline-www:serve:production"
+            }
+          }
+        },
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "apps/service-mangakonline-www-e2e/**/*.{js,ts}"
+            ]
+          }
+        }
+      }
+    },
+    "ui-ga-auto-event-listener": {
+      "root": "libs/ui-ga-auto-event-listener",
+      "sourceRoot": "libs/ui-ga-auto-event-listener/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-ga-auto-event-listener/**/*.{ts,tsx,js,jsx}"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-ga-auto-event-listener"],
+          "options": {
+            "jestConfig": "libs/ui-ga-auto-event-listener/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "ui-material-ui-next-global": {
+      "root": "libs/ui-material-ui-next-global",
+      "sourceRoot": "libs/ui-material-ui-next-global/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-material-ui-next-global/**/*.{ts,tsx,js,jsx}"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-material-ui-next-global"],
+          "options": {
+            "jestConfig": "libs/ui-material-ui-next-global/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "ui-next-apollo-react-component": {
+      "root": "libs/ui-next-apollo-react-component",
+      "sourceRoot": "libs/ui-next-apollo-react-component/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-next-apollo-react-component/**/*.{ts,tsx,js,jsx}"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-next-apollo-react-component"],
+          "options": {
+            "jestConfig": "libs/ui-next-apollo-react-component/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "ui-next-description-meta-tag": {
+      "root": "libs/ui-next-description-meta-tag",
+      "sourceRoot": "libs/ui-next-description-meta-tag/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-next-description-meta-tag/**/*.{ts,tsx,js,jsx}"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-next-description-meta-tag"],
+          "options": {
+            "jestConfig": "libs/ui-next-description-meta-tag/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "ui-next-keywords-meta-tag": {
+      "root": "libs/ui-next-keywords-meta-tag",
+      "sourceRoot": "libs/ui-next-keywords-meta-tag/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-next-keywords-meta-tag/**/*.{ts,tsx,js,jsx}"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-next-keywords-meta-tag"],
+          "options": {
+            "jestConfig": "libs/ui-next-keywords-meta-tag/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "ui-next-og-meta-tag": {
+      "root": "libs/ui-next-og-meta-tag",
+      "sourceRoot": "libs/ui-next-og-meta-tag/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-next-og-meta-tag/**/*.{ts,tsx,js,jsx}"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-next-og-meta-tag"],
+          "options": {
+            "jestConfig": "libs/ui-next-og-meta-tag/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "ui-next-roboto-meta-tag": {
+      "root": "libs/ui-next-roboto-meta-tag",
+      "sourceRoot": "libs/ui-next-roboto-meta-tag/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-next-roboto-meta-tag/**/*.{ts,tsx,js,jsx}"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-next-roboto-meta-tag"],
+          "options": {
+            "jestConfig": "libs/ui-next-roboto-meta-tag/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "ui-next-title-meta-tag": {
+      "root": "libs/ui-next-title-meta-tag",
+      "sourceRoot": "libs/ui-next-title-meta-tag/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-next-title-meta-tag/**/*.{ts,tsx,js,jsx}"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-next-title-meta-tag"],
+          "options": {
+            "jestConfig": "libs/ui-next-title-meta-tag/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "ui-next-twitter-card-meta-tag": {
+      "root": "libs/ui-next-twitter-card-meta-tag",
+      "sourceRoot": "libs/ui-next-twitter-card-meta-tag/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-next-twitter-card-meta-tag/**/*.{ts,tsx,js,jsx}"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-next-twitter-card-meta-tag"],
+          "options": {
+            "jestConfig": "libs/ui-next-twitter-card-meta-tag/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "ui-penguin-ui-material-ui-extension": {
+      "root": "libs/ui-penguin-ui-material-ui-extension",
+      "sourceRoot": "libs/ui-penguin-ui-material-ui-extension/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-penguin-ui-material-ui-extension/**/*.{ts,tsx,js,jsx}"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-penguin-ui-material-ui-extension"],
+          "options": {
+            "jestConfig": "libs/ui-penguin-ui-material-ui-extension/jest.config.js",
+            "passWithNoTests": true
+          }
+        },
+        "storybook": {
+          "executor": "@nrwl/storybook:storybook",
+          "options": {
+            "uiFramework": "@storybook/react",
+            "port": 4400,
+            "host": "0.0.0.0",
+            "config": {
+              "configFolder": "libs/ui-penguin-ui-material-ui-extension/.storybook"
+            }
+          },
+          "configurations": {
+            "ci": {
+              "quiet": true
+            }
+          }
+        },
+        "build-storybook": {
+          "executor": "@nrwl/storybook:build",
+          "outputs": ["{options.outputPath}"],
+          "options": {
+            "uiFramework": "@storybook/react",
+            "outputPath": "dist/storybook/ui-penguin-ui-material-ui-extension",
+            "config": {
+              "configFolder": "libs/ui-penguin-ui-material-ui-extension/.storybook"
+            }
+          },
+          "configurations": {
+            "ci": {
+              "quiet": true
+            }
+          }
+        }
+      }
+    },
+    "ui-penguin-ui-react-social-sharing": {
+      "root": "libs/ui-penguin-ui-react-social-sharing",
+      "sourceRoot": "libs/ui-penguin-ui-react-social-sharing/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-penguin-ui-react-social-sharing/**/*.{ts,tsx,js,jsx}"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-penguin-ui-react-social-sharing"],
+          "options": {
+            "jestConfig": "libs/ui-penguin-ui-react-social-sharing/jest.config.js",
+            "passWithNoTests": true
+          }
+        },
+        "storybook": {
+          "executor": "@nrwl/storybook:storybook",
+          "options": {
+            "uiFramework": "@storybook/react",
+            "port": 4400,
+            "host": "0.0.0.0",
+            "config": {
+              "configFolder": "libs/ui-penguin-ui-react-social-sharing/.storybook"
+            }
+          },
+          "configurations": {
+            "ci": {
+              "quiet": true
+            }
+          }
+        },
+        "build-storybook": {
+          "executor": "@nrwl/storybook:build",
+          "outputs": ["{options.outputPath}"],
+          "options": {
+            "uiFramework": "@storybook/react",
+            "outputPath": "dist/storybook/ui-penguin-ui-react-social-sharing",
+            "config": {
+              "configFolder": "libs/ui-penguin-ui-react-social-sharing/.storybook"
+            }
+          },
+          "configurations": {
+            "ci": {
+              "quiet": true
+            }
+          }
+        }
+      }
+    },
+    "ui-penguin-ui-react-time-ago": {
+      "root": "libs/ui-penguin-ui-react-time-ago",
+      "sourceRoot": "libs/ui-penguin-ui-react-time-ago/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-penguin-ui-react-time-ago/**/*.{ts,tsx,js,jsx}"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-penguin-ui-react-time-ago"],
+          "options": {
+            "jestConfig": "libs/ui-penguin-ui-react-time-ago/jest.config.js",
+            "passWithNoTests": true
+          }
+        },
+        "storybook": {
+          "executor": "@nrwl/storybook:storybook",
+          "options": {
+            "uiFramework": "@storybook/react",
+            "port": 4400,
+            "host": "0.0.0.0",
+            "config": {
+              "configFolder": "libs/ui-penguin-ui-react-time-ago/.storybook"
+            }
+          },
+          "configurations": {
+            "ci": {
+              "quiet": true
+            }
+          }
+        },
+        "build-storybook": {
+          "executor": "@nrwl/storybook:build",
+          "outputs": ["{options.outputPath}"],
+          "options": {
+            "uiFramework": "@storybook/react",
+            "outputPath": "dist/storybook/ui-penguin-ui-react-time-ago",
+            "config": {
+              "configFolder": "libs/ui-penguin-ui-react-time-ago/.storybook"
+            }
+          },
+          "configurations": {
+            "ci": {
+              "quiet": true
+            }
+          }
+        }
+      }
+    },
+    "ui-penguin-ui-reviews": {
+      "root": "libs/ui-penguin-ui-reviews",
+      "sourceRoot": "libs/ui-penguin-ui-reviews/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-penguin-ui-reviews/**/*.{ts,tsx,js,jsx}"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-penguin-ui-reviews"],
+          "options": {
+            "jestConfig": "libs/ui-penguin-ui-reviews/jest.config.js",
+            "passWithNoTests": true
+          }
+        },
+        "storybook": {
+          "executor": "@nrwl/storybook:storybook",
+          "options": {
+            "uiFramework": "@storybook/react",
+            "port": 4400,
+            "host": "0.0.0.0",
+            "config": {
+              "configFolder": "libs/ui-penguin-ui-reviews/.storybook"
+            }
+          },
+          "configurations": {
+            "ci": {
+              "quiet": true
+            }
+          }
+        },
+        "build-storybook": {
+          "executor": "@nrwl/storybook:build",
+          "outputs": ["{options.outputPath}"],
+          "options": {
+            "uiFramework": "@storybook/react",
+            "outputPath": "dist/storybook/ui-penguin-ui-reviews",
+            "config": {
+              "configFolder": "libs/ui-penguin-ui-reviews/.storybook"
+            }
+          },
+          "configurations": {
+            "ci": {
+              "quiet": true
+            }
+          }
+        }
+      }
+    },
+    "ui-penguin-ui-scrollbar": {
+      "root": "libs/ui-penguin-ui-scrollbar",
+      "sourceRoot": "libs/ui-penguin-ui-scrollbar/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-penguin-ui-scrollbar/**/*.{ts,tsx,js,jsx}"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-penguin-ui-scrollbar"],
+          "options": {
+            "jestConfig": "libs/ui-penguin-ui-scrollbar/jest.config.js",
+            "passWithNoTests": true
+          }
+        },
+        "storybook": {
+          "executor": "@nrwl/storybook:storybook",
+          "options": {
+            "uiFramework": "@storybook/react",
+            "port": 4400,
+            "host": "0.0.0.0",
+            "config": {
+              "configFolder": "libs/ui-penguin-ui-scrollbar/.storybook"
+            }
+          },
+          "configurations": {
+            "ci": {
+              "quiet": true
+            }
+          }
+        },
+        "build-storybook": {
+          "executor": "@nrwl/storybook:build",
+          "outputs": ["{options.outputPath}"],
+          "options": {
+            "uiFramework": "@storybook/react",
+            "outputPath": "dist/storybook/ui-penguin-ui-scrollbar",
+            "config": {
+              "configFolder": "libs/ui-penguin-ui-scrollbar/.storybook"
+            }
+          },
+          "configurations": {
+            "ci": {
+              "quiet": true
+            }
+          }
+        }
+      }
+    },
+    "ui-react-infinite-scroll": {
+      "root": "libs/ui-react-infinite-scroll",
+      "sourceRoot": "libs/ui-react-infinite-scroll/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-react-infinite-scroll/**/*.{ts,tsx,js,jsx}"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-react-infinite-scroll"],
+          "options": {
+            "jestConfig": "libs/ui-react-infinite-scroll/jest.config.js",
+            "passWithNoTests": true
+          }
+        },
+        "storybook": {
+          "executor": "@nrwl/storybook:storybook",
+          "options": {
+            "uiFramework": "@storybook/react",
+            "port": 4400,
+            "host": "0.0.0.0",
+            "config": {
+              "configFolder": "libs/ui-react-infinite-scroll/.storybook"
+            }
+          },
+          "configurations": {
+            "ci": {
+              "quiet": true
+            }
+          }
+        },
+        "build-storybook": {
+          "executor": "@nrwl/storybook:build",
+          "outputs": ["{options.outputPath}"],
+          "options": {
+            "uiFramework": "@storybook/react",
+            "outputPath": "dist/storybook/ui-react-infinite-scroll",
+            "config": {
+              "configFolder": "libs/ui-react-infinite-scroll/.storybook"
+            }
+          },
+          "configurations": {
+            "ci": {
+              "quiet": true
+            }
+          }
+        }
+      }
+    },
+    "ui-react-medium-image-zoom": {
+      "root": "libs/ui-react-medium-image-zoom",
+      "sourceRoot": "libs/ui-react-medium-image-zoom/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/ui-react-medium-image-zoom/**/*.{ts,tsx,js,jsx}"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/ui-react-medium-image-zoom"],
+          "options": {
+            "jestConfig": "libs/ui-react-medium-image-zoom/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "util-apollo-cursor-style-pagination": {
+      "root": "libs/util-apollo-cursor-style-pagination",
+      "sourceRoot": "libs/util-apollo-cursor-style-pagination/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": [
+              "libs/util-apollo-cursor-style-pagination/**/*.ts"
+            ]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/util-apollo-cursor-style-pagination"],
+          "options": {
+            "jestConfig": "libs/util-apollo-cursor-style-pagination/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "util-penguin-ui-aspect-ratio": {
+      "root": "libs/util-penguin-ui-aspect-ratio",
+      "sourceRoot": "libs/util-penguin-ui-aspect-ratio/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": ["libs/util-penguin-ui-aspect-ratio/**/*.ts"]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/util-penguin-ui-aspect-ratio"],
+          "options": {
+            "jestConfig": "libs/util-penguin-ui-aspect-ratio/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "util-penguin-ui-get-filename": {
+      "root": "libs/util-penguin-ui-get-filename",
+      "sourceRoot": "libs/util-penguin-ui-get-filename/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": ["libs/util-penguin-ui-get-filename/**/*.ts"]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/util-penguin-ui-get-filename"],
+          "options": {
+            "jestConfig": "libs/util-penguin-ui-get-filename/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "util-penguin-ui-slugify": {
+      "root": "libs/util-penguin-ui-slugify",
+      "sourceRoot": "libs/util-penguin-ui-slugify/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": ["libs/util-penguin-ui-slugify/**/*.ts"]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/util-penguin-ui-slugify"],
+          "options": {
+            "jestConfig": "libs/util-penguin-ui-slugify/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "util-penguin-ui-unaccented": {
+      "root": "libs/util-penguin-ui-unaccented",
+      "sourceRoot": "libs/util-penguin-ui-unaccented/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": ["libs/util-penguin-ui-unaccented/**/*.ts"]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/util-penguin-ui-unaccented"],
+          "options": {
+            "jestConfig": "libs/util-penguin-ui-unaccented/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    },
+    "utils-nest-parse-objectid-pipe": {
+      "root": "libs/utils-nest-parse-objectid-pipe",
+      "sourceRoot": "libs/utils-nest-parse-objectid-pipe/src",
+      "projectType": "library",
+      "targets": {
+        "lint": {
+          "executor": "@nrwl/linter:eslint",
+          "options": {
+            "lintFilePatterns": ["libs/utils-nest-parse-objectid-pipe/**/*.ts"]
+          }
+        },
+        "test": {
+          "executor": "@nrwl/jest:jest",
+          "outputs": ["coverage/libs/utils-nest-parse-objectid-pipe"],
+          "options": {
+            "jestConfig": "libs/utils-nest-parse-objectid-pipe/jest.config.js",
+            "passWithNoTests": true
+          }
+        }
+      }
+    }
+  }
+}

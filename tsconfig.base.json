@@ -1,0 +1,122 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "rootDir": ".",
+    "sourceMap": true,
+    "declaration": false,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "target": "es2015",
+    "module": "esnext",
+    "lib": ["es2017", "dom"],
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@mp-workspace/data-access-constants": [
+        "libs/data-access-constants/src/index.ts"
+      ],
+      "@mp-workspace/data-access-mangakonline-events": [
+        "libs/data-access-mangakonline-events/src/index.ts"
+      ],
+      "@mp-workspace/data-access-nest-auth-module": [
+        "libs/data-access-nest-auth-module/src/index.ts"
+      ],
+      "@mp-workspace/data-access-nest-catalog-module": [
+        "libs/data-access-nest-catalog-module/src/index.ts"
+      ],
+      "@mp-workspace/data-access-nest-crawling-module": [
+        "libs/data-access-nest-crawling-module/src/index.ts"
+      ],
+      "@mp-workspace/data-access-nest-media-module": [
+        "libs/data-access-nest-media-module/src/index.ts"
+      ],
+      "@mp-workspace/ui-ga-auto-event-listener": [
+        "libs/ui-ga-auto-event-listener/src/index.ts"
+      ],
+      "@mp-workspace/ui-material-ui-next-global": [
+        "libs/ui-material-ui-next-global/src/index.ts"
+      ],
+      "@mp-workspace/ui-next-apollo-react-component": [
+        "libs/ui-next-apollo-react-component/src/index.ts"
+      ],
+      "@mp-workspace/ui-next-description-meta-tag": [
+        "libs/ui-next-description-meta-tag/src/index.ts"
+      ],
+      "@mp-workspace/ui-next-keywords-meta-tag": [
+        "libs/ui-next-keywords-meta-tag/src/index.ts"
+      ],
+      "@mp-workspace/ui-next-og-meta-tag": [
+        "libs/ui-next-og-meta-tag/src/index.ts"
+      ],
+      "@mp-workspace/ui-next-roboto-meta-tag": [
+        "libs/ui-next-roboto-meta-tag/src/index.ts"
+      ],
+      "@mp-workspace/ui-next-title-meta-tag": [
+        "libs/ui-next-title-meta-tag/src/index.ts"
+      ],
+      "@mp-workspace/ui-next-twitter-card-meta-tag": [
+        "libs/ui-next-twitter-card-meta-tag/src/index.ts"
+      ],
+      "@mp-workspace/ui-penguin-ui-material-ui-extension": [
+        "libs/ui-penguin-ui-material-ui-extension/src/index.ts"
+      ],
+      "@mp-workspace/ui-penguin-ui-react-social-sharing": [
+        "libs/ui-penguin-ui-react-social-sharing/src/index.ts"
+      ],
+      "@mp-workspace/ui-penguin-ui-react-time-ago": [
+        "libs/ui-penguin-ui-react-time-ago/src/index.ts"
+      ],
+      "@mp-workspace/ui-penguin-ui-reviews": [
+        "libs/ui-penguin-ui-reviews/src/index.ts"
+      ],
+      "@mp-workspace/ui-penguin-ui-scrollbar": [
+        "libs/ui-penguin-ui-scrollbar/src/index.ts"
+      ],
+      "@mp-workspace/ui-react-infinite-scroll": [
+        "libs/ui-react-infinite-scroll/src/index.ts"
+      ],
+      "@mp-workspace/ui-react-medium-image-zoom": [
+        "libs/ui-react-medium-image-zoom/src/index.ts"
+      ],
+      "@mp-workspace/util-apollo-cursor-style-pagination": [
+        "libs/util-apollo-cursor-style-pagination/src/index.ts"
+      ],
+      "@mp-workspace/util-penguin-ui-aspect-ratio": [
+        "libs/util-penguin-ui-aspect-ratio/src/index.ts"
+      ],
+      "@mp-workspace/util-penguin-ui-get-filename": [
+        "libs/util-penguin-ui-get-filename/src/index.ts"
+      ],
+      "@mp-workspace/util-penguin-ui-slugify": [
+        "libs/util-penguin-ui-slugify/src/index.ts"
+      ],
+      "@mp-workspace/util-penguin-ui-unaccented": [
+        "libs/util-penguin-ui-unaccented/src/index.ts"
+      ],
+      "@mp-workspace/utils-nest-parse-objectid-pipe": [
+        "libs/utils-nest-parse-objectid-pipe/src/index.ts"
+      ],
+      "@penguin-ui/material-ui-extension": [
+        "libs/ui-penguin-ui-material-ui-extension/src/index.ts"
+      ],
+      "@penguin-ui/react-social-sharing": [
+        "libs/ui-penguin-ui-react-social-sharing/src/index.ts"
+      ],
+      "@penguin-ui/react-time-ago": [
+        "libs/ui-penguin-ui-react-time-ago/src/index.ts"
+      ],
+      "@penguin-ui/reviews": ["libs/ui-penguin-ui-reviews/src/index.ts"],
+      "@penguin-ui/scrollbar": ["libs/ui-penguin-ui-scrollbar/src/index.ts"],
+      "data-access-migrate-mongoose": [
+        "libs/data-access-migrate-mongoose/src/index.ts"
+      ]
+    }
+  },
+  "exclude": ["node_modules", "tmp"]
+}

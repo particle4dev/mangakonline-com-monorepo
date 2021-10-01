@@ -1,0 +1,225 @@
+[{
+  "_id": "60153e54ed9b7395d7f921b8",
+  "word1": "action",
+  "word2": "adventure",
+  "count": 1,
+  "createdAt": "2021-01-30T11:09:08.414Z",
+  "updatedAt": "2021-01-30T11:09:08.414Z",
+  "__v": 0
+}, {
+  "_id": "60153e54ed9b7395d7f921b9",
+  "word1": "action",
+  "word2": "drama",
+  "count": 1,
+  "createdAt": "2021-01-30T11:09:08.472Z",
+  "updatedAt": "2021-01-30T11:09:08.472Z",
+  "__v": 0
+}, {
+  "_id": "60153e54ed9b7395d7f921ba",
+  "word1": "action",
+  "word2": "fantasy",
+  "count": 1,
+  "createdAt": "2021-01-30T11:09:08.535Z",
+  "updatedAt": "2021-01-30T11:09:08.535Z",
+  "__v": 0
+}, {
+  "_id": "60153e54ed9b7395d7f921bb",
+  "word1": "action",
+  "word2": "mystery",
+  "count": 1,
+  "createdAt": "2021-01-30T11:09:08.57Z",
+  "updatedAt": "2021-01-30T11:09:08.57Z",
+  "__v": 0
+}, {
+  "_id": "60153e54ed9b7395d7f921bc",
+  "word1": "action",
+  "word2": "psychological",
+  "count": 1,
+  "createdAt": "2021-01-30T11:09:08.627Z",
+  "updatedAt": "2021-01-30T11:09:08.627Z",
+  "__v": 0
+}, {
+  "_id": "60153e54ed9b7395d7f921bd",
+  "word1": "action",
+  "word2": "romance",
+  "count": 1,
+  "createdAt": "2021-01-30T11:09:08.678Z",
+  "updatedAt": "2021-01-30T11:09:08.678Z",
+  "__v": 0
+}, {
+  "_id": "60153e54ed9b7395d7f921be",
+  "word1": "action",
+  "word2": "tragedy",
+  "count": 1,
+  "createdAt": "2021-01-30T11:09:08.739Z",
+  "updatedAt": "2021-01-30T11:09:08.739Z",
+  "__v": 0
+}, {
+  "_id": "60153e54ed9b7395d7f921bf",
+  "word1": "adventure",
+  "word2": "drama",
+  "count": 1,
+  "createdAt": "2021-01-30T11:09:08.779Z",
+  "updatedAt": "2021-01-30T11:09:08.779Z",
+  "__v": 0
+}, {
+  "_id": "60153e54ed9b7395d7f921c0",
+  "word1": "adventure",
+  "word2": "fantasy",
+  "count": 1,
+  "createdAt": "2021-01-30T11:09:08.823Z",
+  "updatedAt": "2021-01-30T11:09:08.823Z",
+  "__v": 0
+}, {
+  "_id": "60153e54ed9b7395d7f921c1",
+  "word1": "adventure",
+  "word2": "mystery",
+  "count": 1,
+  "createdAt": "2021-01-30T11:09:08.865Z",
+  "updatedAt": "2021-01-30T11:09:08.865Z",
+  "__v": 0
+}, {
+  "_id": "60153e54ed9b7395d7f921c2",
+  "word1": "adventure",
+  "word2": "psychological",
+  "count": 1,
+  "createdAt": "2021-01-30T11:09:08.899Z",
+  "updatedAt": "2021-01-30T11:09:08.899Z",
+  "__v": 0
+}, {
+  "_id": "601688190231d119aa722830",
+  "word1": "adventure",
+  "word2": "romance",
+  "count": 1,
+  "createdAt": "2021-01-31T10:36:09.776Z",
+  "updatedAt": "2021-01-31T10:36:09.776Z",
+  "__v": 0
+}, {
+  "_id": "6016881a0231d119aa722831",
+  "word1": "adventure",
+  "word2": "tragedy",
+  "count": 1,
+  "createdAt": "2021-01-31T10:36:10.245Z",
+  "updatedAt": "2021-01-31T10:36:10.245Z",
+  "__v": 0
+}, {
+  "_id": "6016881b0231d119aa722846",
+  "word1": "drama",
+  "word2": "fantasy",
+  "count": 1,
+  "createdAt": "2021-01-31T10:36:11.437Z",
+  "updatedAt": "2021-01-31T10:36:11.437Z",
+  "__v": 0
+}, {
+  "_id": "6016881c0231d119aa722847",
+  "word1": "drama",
+  "word2": "mystery",
+  "count": 1,
+  "createdAt": "2021-01-31T10:36:12.012Z",
+  "updatedAt": "2021-01-31T10:36:12.012Z",
+  "__v": 0
+}, {
+  "_id": "6016881c0231d119aa722848",
+  "word1": "drama",
+  "word2": "psychological",
+  "count": 1,
+  "createdAt": "2021-01-31T10:36:12.404Z",
+  "updatedAt": "2021-01-31T10:36:12.404Z",
+  "__v": 0
+}, {
+  "_id": "6016881d0231d119aa722849",
+  "word1": "drama",
+  "word2": "romance",
+  "count": 1,
+  "createdAt": "2021-01-31T10:36:13.101Z",
+  "updatedAt": "2021-01-31T10:36:13.101Z",
+  "__v": 0
+}, {
+  "_id": "6016881d0231d119aa72284a",
+  "word1": "drama",
+  "word2": "tragedy",
+  "count": 1,
+  "createdAt": "2021-01-31T10:36:13.544Z",
+  "updatedAt": "2021-01-31T10:36:13.544Z",
+  "__v": 0
+}, {
+  "_id": "6016881d0231d119aa72284b",
+  "word1": "fantasy",
+  "word2": "mystery",
+  "count": 1,
+  "createdAt": "2021-01-31T10:36:13.937Z",
+  "updatedAt": "2021-01-31T10:36:13.937Z",
+  "__v": 0
+}, {
+  "_id": "6016881e0231d119aa72284c",
+  "word1": "fantasy",
+  "word2": "psychological",
+  "count": 1,
+  "createdAt": "2021-01-31T10:36:14.385Z",
+  "updatedAt": "2021-01-31T10:36:14.385Z",
+  "__v": 0
+}, {
+  "_id": "6016881f0231d119aa72284d",
+  "word1": "fantasy",
+  "word2": "romance",
+  "count": 1,
+  "createdAt": "2021-01-31T10:36:15.06Z",
+  "updatedAt": "2021-01-31T10:36:15.06Z",
+  "__v": 0
+}, {
+  "_id": "6016881f0231d119aa72284e",
+  "word1": "fantasy",
+  "word2": "tragedy",
+  "count": 1,
+  "createdAt": "2021-01-31T10:36:15.438Z",
+  "updatedAt": "2021-01-31T10:36:15.438Z",
+  "__v": 0
+}, {
+  "_id": "601688200231d119aa72284f",
+  "word1": "mystery",
+  "word2": "psychological",
+  "count": 1,
+  "createdAt": "2021-01-31T10:36:16.017Z",
+  "updatedAt": "2021-01-31T10:36:16.017Z",
+  "__v": 0
+}, {
+  "_id": "601688200231d119aa722850",
+  "word1": "mystery",
+  "word2": "romance",
+  "count": 1,
+  "createdAt": "2021-01-31T10:36:16.835Z",
+  "updatedAt": "2021-01-31T10:36:16.835Z",
+  "__v": 0
+}, {
+  "_id": "601688210231d119aa722851",
+  "word1": "mystery",
+  "word2": "tragedy",
+  "count": 1,
+  "createdAt": "2021-01-31T10:36:17.347Z",
+  "updatedAt": "2021-01-31T10:36:17.347Z",
+  "__v": 0
+}, {
+  "_id": "601688220231d119aa722852",
+  "word1": "psychological",
+  "word2": "romance",
+  "count": 1,
+  "createdAt": "2021-01-31T10:36:18.022Z",
+  "updatedAt": "2021-01-31T10:36:18.022Z",
+  "__v": 0
+}, {
+  "_id": "601688220231d119aa722853",
+  "word1": "psychological",
+  "word2": "tragedy",
+  "count": 1,
+  "createdAt": "2021-01-31T10:36:18.645Z",
+  "updatedAt": "2021-01-31T10:36:18.645Z",
+  "__v": 0
+}, {
+  "_id": "601688230231d119aa722854",
+  "word1": "romance",
+  "word2": "tragedy",
+  "count": 1,
+  "createdAt": "2021-01-31T10:36:19.053Z",
+  "updatedAt": "2021-01-31T10:36:19.053Z",
+  "__v": 0
+}]

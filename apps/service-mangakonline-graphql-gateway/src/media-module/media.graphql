@@ -1,0 +1,72 @@
+type Query {
+  picture(_id: ID!): MediaPictureEntity
+}
+
+type Mutation {
+  "Add a new picture url."
+  addNewPictureURL(input: AddNewPictureURLInput!): AddNewPictureURLPayload
+  addNewPicturesURL(input: [AddNewPictureURLInput]!): AddNewPicturesURLPayload
+
+  "Delete a picture."
+  deletePicture(input: DeletePictureInput!): DeletePicturePayload
+
+  "Delete pictures."
+  deletePictures(input: DeletePicturesInput!): DeletePicturesPayload
+}
+
+input DeletePictureInput {
+  id: ID!
+}
+
+input DeletePicturesInput {
+  ids: [ID]!
+}
+
+input AddNewPictureURLInput {
+  url: String
+  alt: String
+}
+
+type DeletePicturePayload {
+  _id: ID
+}
+
+type DeletePicturesPayload {
+  _ids: [ID]
+}
+
+type AddNewPictureURLPayload {
+  picture: MediaPictureEntity
+}
+
+type AddNewPicturesURLPayload {
+  pictures: [MediaPictureEntity]
+}
+
+# Picture
+type MediaPictureEntitySize {
+  url: String
+  orientation: Int
+  width: Int
+  height: Int
+  type: String
+}
+
+type MediaPictureEntityAspectRatio implements Node {
+  _id: ID!
+  width: Int
+  height: Int
+  text: String
+}
+
+type MediaPictureEntity implements Node {
+  _id: ID!
+  filename: String
+  alt: String
+  sizes: [MediaPictureEntitySize]
+  aspectRatio: MediaPictureEntityAspectRatio
+  findSize(type: String!): MediaPictureEntitySize
+
+  createdAt: Date
+  updatedAt: Date
+}

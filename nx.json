@@ -1,0 +1,138 @@
+{
+  "implicitDependencies": {
+    "workspace.json": "*",
+    "package.json": {
+      "dependencies": "*",
+      "devDependencies": "*"
+    },
+    "tsconfig.base.json": "*",
+    "tslint.json": "*",
+    ".eslintrc.json": "*",
+    "nx.json": "*"
+  },
+  "affected": {
+    "defaultBase": "master"
+  },
+  "npmScope": "mp-workspace",
+  "tasksRunnerOptions": {
+    "default": {
+      "runner": "@nrwl/workspace/tasks-runners/default",
+      "options": {
+        "cacheableOperations": [
+          "build",
+          "lint",
+          "test",
+          "e2e",
+          "build-storybook"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "data-access-constants": {
+      "tags": []
+    },
+    "data-access-mangakonline-events": {
+      "tags": []
+    },
+    "data-access-migrate-mongoose": {
+      "tags": []
+    },
+    "data-access-nest-auth-module": {
+      "tags": []
+    },
+    "data-access-nest-catalog-module": {
+      "tags": []
+    },
+    "data-access-nest-crawling-module": {
+      "tags": []
+    },
+    "data-access-nest-media-module": {
+      "tags": []
+    },
+    "service-mangakonline-graphql-gateway": {
+      "tags": []
+    },
+    "service-mangakonline-www": {
+      "tags": []
+    },
+    "service-mangakonline-www-e2e": {
+      "tags": [],
+      "implicitDependencies": ["service-mangakonline-www"]
+    },
+    "ui-ga-auto-event-listener": {
+      "tags": []
+    },
+    "ui-material-ui-next-global": {
+      "tags": []
+    },
+    "ui-next-apollo-react-component": {
+      "tags": []
+    },
+    "ui-next-description-meta-tag": {
+      "tags": []
+    },
+    "ui-next-keywords-meta-tag": {
+      "tags": []
+    },
+    "ui-next-og-meta-tag": {
+      "tags": []
+    },
+    "ui-next-roboto-meta-tag": {
+      "tags": []
+    },
+    "ui-next-title-meta-tag": {
+      "tags": []
+    },
+    "ui-next-twitter-card-meta-tag": {
+      "tags": []
+    },
+    "ui-penguin-ui-material-ui-extension": {
+      "tags": []
+    },
+    "ui-penguin-ui-react-social-sharing": {
+      "tags": []
+    },
+    "ui-penguin-ui-react-time-ago": {
+      "tags": []
+    },
+    "ui-penguin-ui-reviews": {
+      "tags": []
+    },
+    "ui-penguin-ui-scrollbar": {
+      "tags": []
+    },
+    "ui-react-infinite-scroll": {
+      "tags": []
+    },
+    "ui-react-medium-image-zoom": {
+      "tags": []
+    },
+    "util-apollo-cursor-style-pagination": {
+      "tags": []
+    },
+    "util-penguin-ui-aspect-ratio": {
+      "tags": []
+    },
+    "util-penguin-ui-get-filename": {
+      "tags": []
+    },
+    "util-penguin-ui-slugify": {
+      "tags": []
+    },
+    "util-penguin-ui-unaccented": {
+      "tags": []
+    },
+    "utils-nest-parse-objectid-pipe": {
+      "tags": []
+    }
+  },
+  "targetDependencies": {
+    "build": [
+      {
+        "target": "build",
+        "projects": "dependencies"
+      }
+    ]
+  }
+}

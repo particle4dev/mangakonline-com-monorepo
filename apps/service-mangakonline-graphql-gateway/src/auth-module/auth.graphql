@@ -1,0 +1,13 @@
+type Mutation {
+  "Authenticates the user using the native authentication strategy."
+  login(username: String!, password: String!): LoginPayload
+  refreshToken(refreshToken: String!): RefreshTokenPayload
+}
+
+type LoginPayload {
+  accessToken: String!
+}
+
+type RefreshTokenPayload {
+  accessToken: String!
+}
