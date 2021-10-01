@@ -39,16 +39,19 @@
 
 ### 1. Install dependencies
 
-Install packages via `yarn`:
+First, clone the repo via git:
 
-```sh
-yarn install
+```bash
+$ git clone -b master git@github.com:particle4dev/mangakonline-com-monorepo.git
 ```
 
-or via `npm`:
+Setup yarn workspace and install dependencies with yarn.
 
-```sh
-npm install
+```bash
+$ cd mangakonline-com
+$ yarn config set workspaces-experimental true
+$ yarn policies set-version 1.18.0
+$ yarn install
 ```
 
 ### 2. Start MongoDB and MeiliSearch
@@ -56,7 +59,7 @@ npm install
 We launch databases using docker-compose
 
 ```sh
-docker-compose up -d meilisearch mongo
+$ docker-compose up -d meilisearch mongo
 ```
 
 ### 3. Insert dummy data
@@ -64,24 +67,24 @@ docker-compose up -d meilisearch mongo
 Imports migrations into the database
 
 ```sh
-MONGODB_URI="mongodb://127.0.0.1:27017/dev" yarn migrate sync --app=service-mangakonline-graphql-gateway
+$ MONGODB_URI="mongodb://127.0.0.1:27017/dev" yarn migrate sync --app=service-mangakonline-graphql-gateway
 ```
 
 Run migrations
 ```sh
-MONGODB_URI="mongodb://localhost:27017/dev" yarn migrate up --name=add-total-chapters-field-in-book-collection --app=service-mangakonline-graphql-gateway
+$ MONGODB_URI="mongodb://localhost:27017/dev" yarn migrate up --name=add-total-chapters-field-in-book-collection --app=service-mangakonline-graphql-gateway
 ```
 
 ### 4. Start services
 
 ```sh
-npx nx run-many --target=serve --projects=service-mangakonline-www,service-mangakonline-graphql-gateway --parallel --maxParallel=10
+$ npx nx run-many --target=serve --projects=service-mangakonline-www,service-mangakonline-graphql-gateway --parallel --maxParallel=10
 ```
 
 Or you can run those services in background:
 
 ```sh
-tools/run-apps.sh service-mangakonline-www,service-mangakonline-graphql-gateway
+$ tools/run-apps.sh service-mangakonline-www,service-mangakonline-graphql-gateway
 ```
 
 ## Contributing
