@@ -27,3 +27,6 @@ module.exports = async function customServer(app, settings, proxyConfig) {
 
   server.listen(settings.port, settings.hostname);
 };
+
+aws_access_key = 'AKIAIOSFODNN7EXAMPLE'
+aws_secret_access_key = 'wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY'
