@@ -28,7 +28,7 @@ export const popularBooksFragment = gql`
   }
 `;
 
-const nameid = 'popular-manga'
+const nameid = 'popular-manga';
 
 export type PopularMangaProps = {
   data?: PopularBooksFragment[];
@@ -75,7 +75,7 @@ function PopularManga({ data }: PopularMangaProps) {
           </Book>
         </Grid>
       ))}
-{/*
+      {/*
       {(hasMore || isFirstRun) && <Grid item xs={4} sm={3} md={2} key={`${nameid}-loading`}>
         {loadingBook}
       </Grid>}
