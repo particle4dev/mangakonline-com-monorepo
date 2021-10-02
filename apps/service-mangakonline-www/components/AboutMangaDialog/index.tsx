@@ -93,12 +93,12 @@ export default function AboutMangaDialog({ value, description, genres = [], publ
             <ListItemText
               primary="Genres"
               secondary={genres.map((e: Genre) => <span key={`category-detail-manga-${e.slug}`}>
-              <Link href="/genres/[id]" as={`/genres/${e.slug}`}>
-                <a style={{
-                  color: '#fff'
-                }} aria-label={`View ${e.label} category`}>{e.label}</a>
-              </Link>{" • "}
-            </span>)} />
+                <Link href="/genres/[id]" as={`/genres/${e.slug}`}>
+                  <a style={{
+                    color: '#fff'
+                  }} aria-label={`View ${e.label} category`}>{e.label}</a>
+                </Link>{" • "}
+              </span>)} />
           </ListItem>
           <ListItem alignItems="flex-start" disableGutters>
             <ListItemText

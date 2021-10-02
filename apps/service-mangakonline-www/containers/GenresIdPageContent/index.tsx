@@ -107,34 +107,34 @@ const GenresIdPageContent = (props: GenresIdPageContentProps) => {
           <Grid spacing={3} container>
             <InfiniteScrollOnBottom orientation="vertical" next={next}>
 
-            {books.map((e, k: number) => (
-              <Grid item xs={4} sm={3} md={2} key={`${nameid}-book-${k}`}>
-                <Book href="/manga/[id]" as={`/manga/${e.slug}`} style={{
-                  width: '100%'
-                }}>
-                  <BookCover
-                    style={{
-                      height: 0,
-                      paddingTop: '131.32%',
-                    }}
-                    image={get(e, 'cover.findSize.url', null)}
-                    title={e.title}
-                  />
-                  <BookHeader disableTypography title={
-                    <Typography noWrap>
-                      {e.title}
-                    </Typography>
-                  }
-                  subheader={`#${e.totalChapters}`}
-                  />
-                </Book>
-              </Grid>
-            ))}
-            {(loading || get(data, 'genres_id_page_books.pageInfo.hasNextPage', false)) && [1, 2, 3, 4, 5, 6].map(e => (
-              <Grid item xs={4} sm={3} md={2} key={`${nameid}-loading-book-${e}`}>
-                {loadingBook}
-              </Grid>
-            ))}
+              {books.map((e, k: number) => (
+                <Grid item xs={4} sm={3} md={2} key={`${nameid}-book-${k}`}>
+                  <Book href="/manga/[id]" as={`/manga/${e.slug}`} style={{
+                    width: '100%'
+                  }}>
+                    <BookCover
+                      style={{
+                        height: 0,
+                        paddingTop: '131.32%',
+                      }}
+                      image={get(e, 'cover.findSize.url', null)}
+                      title={e.title}
+                    />
+                    <BookHeader disableTypography title={
+                      <Typography noWrap>
+                        {e.title}
+                      </Typography>
+                    }
+                    subheader={`#${e.totalChapters}`}
+                    />
+                  </Book>
+                </Grid>
+              ))}
+              {(loading || get(data, 'genres_id_page_books.pageInfo.hasNextPage', false)) && [1, 2, 3, 4, 5, 6].map(e => (
+                <Grid item xs={4} sm={3} md={2} key={`${nameid}-loading-book-${e}`}>
+                  {loadingBook}
+                </Grid>
+              ))}
             </InfiniteScrollOnBottom>
 
           </Grid>
