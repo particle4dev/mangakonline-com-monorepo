@@ -1,7 +1,5 @@
 import * as React from 'react';
 import { HideOnScroll, Content } from '@mp-workspace/ui-penguin-ui-material-ui-extension';
-import ProductDetailSection from '../../components/ProductDetailSection';
-import SpecsSection from '../../components/SpecsSection';
 import FAQSection from '../../components/FAQSection';
 import ReviewsSection from '../../components/ReviewsSection';
 import FormSection from '../../components/FormSection';
@@ -21,8 +19,6 @@ const ItemIdPageContent = ({ slug }) => {
     <Content top={64}>
       <DemoCarousel />
 
-      <ProductDetailSection />
-      <SpecsSection />
       <FAQSection />
       <ReviewsSection />
       <FormSection />
