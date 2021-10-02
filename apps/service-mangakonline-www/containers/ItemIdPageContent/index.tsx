@@ -2,7 +2,6 @@ import * as React from 'react';
 import { HideOnScroll, Content } from '@mp-workspace/ui-penguin-ui-material-ui-extension';
 import ReviewsSection from '../../components/ReviewsSection';
 import Navbar from './Navbar';
-import DemoCarousel from './DemoCarousel';
 
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 const debug = require('debug')('containers:ItemIdPageContent');
@@ -15,7 +14,6 @@ const ItemIdPageContent = ({ slug }) => {
       <Navbar />
     </HideOnScroll>
     <Content top={64}>
-      <DemoCarousel />
 
       <ReviewsSection />
     </Content>
