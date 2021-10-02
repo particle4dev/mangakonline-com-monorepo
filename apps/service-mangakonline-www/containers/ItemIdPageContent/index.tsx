@@ -2,7 +2,6 @@ import * as React from 'react';
 import { HideOnScroll, Content } from '@mp-workspace/ui-penguin-ui-material-ui-extension';
 import FAQSection from '../../components/FAQSection';
 import ReviewsSection from '../../components/ReviewsSection';
-import FormSection from '../../components/FormSection';
 import Navbar from './Navbar';
 import DemoCarousel from './DemoCarousel';
 
@@ -21,7 +20,6 @@ const ItemIdPageContent = ({ slug }) => {
 
       <FAQSection />
       <ReviewsSection />
-      <FormSection />
     </Content>
   </>);
 };
