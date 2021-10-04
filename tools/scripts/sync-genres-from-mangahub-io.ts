@@ -1,4 +1,7 @@
 // ./node_modules/.bin/ts-node -r tsconfig-paths/register -P ./tools/tsconfig.tools.json ./tools/scripts/sync-genres-from-mangahub-io.ts
+// Option:
+// --url 123. eg:  ./node_modules/.bin/ts-node -r tsconfig-paths/register -P ./tools/tsconfig.tools.json ./tools/scripts/sync-genres-from-mangahub-io.ts --url 123
+
 // curl -X POST \
 //   https://api.mghubcdn.com/graphql \
 //   -H 'accept: */*' \
@@ -12,11 +15,16 @@
 //   -d '{"query":"query GET_ALL_GENRES_DATA_FROM_MANGAHUB_IO {genres {id slug title}}"}'
 
 import fetch from 'isomorphic-fetch';
+import minimist from 'minimist';
 import { get } from 'dot-prop';
 import { data } from './genres.json';
 
+const argv = minimist(process.argv.slice(2));
+
 async function insertCategoryInDb(slug: string, label: string) {
-  const { data, errors } = await fetch('http://localhost:4300/graphql', {
+  const url = argv['url'] || 'http://localhost:4300/graphql';
+
+  const { data, errors } = await fetch(url, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
