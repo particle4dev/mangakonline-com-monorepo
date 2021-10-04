@@ -1,6 +1,6 @@
 // ./node_modules/.bin/ts-node -r tsconfig-paths/register -P ./tools/tsconfig.tools.json ./tools/scripts/sync-genres-from-mangahub-io.ts
 // Option:
-// --url 123. eg:  ./node_modules/.bin/ts-node -r tsconfig-paths/register -P ./tools/tsconfig.tools.json ./tools/scripts/sync-genres-from-mangahub-io.ts --url 123
+// --url link to graphql. eg:  ./node_modules/.bin/ts-node -r tsconfig-paths/register -P ./tools/tsconfig.tools.json ./tools/scripts/sync-genres-from-mangahub-io.ts --url 123
 
 // curl -X POST \
 //   https://api.mghubcdn.com/graphql \
