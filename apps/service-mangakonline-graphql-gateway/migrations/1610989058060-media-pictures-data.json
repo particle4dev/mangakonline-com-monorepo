@@ -1,36 +1,32 @@
 [{
   "_id": "60153e28ed9b7395d7f92139",
-  "sizes":[
-    {
-      "height": 763,
-      "width": 500,
-      "type": "jpg",
-      "url": "https://thumb.mghubcdn.com/md/memorize.jpeg"
-    }
-  ],
-  "filename":"memorize",
-  "alt":"MEMORIZE thumbnail",
-  "aspectRatio":{
+  "sizes": [{
+    "height": 763,
+    "width": 500,
+    "type": "jpg",
+    "url": "https://thumb.mghubcdn.com/md/memorize.jpeg"
+  }],
+  "filename": "memorize",
+  "alt": "MEMORIZE thumbnail",
+  "aspectRatio": {
     "width": 19,
     "height": 29,
-    "text":"19:29"
+    "text": "19:29"
   },
   "createdAt": "2021-01-30T11:08:24.744Z",
   "updatedAt": "2021-01-30T11:08:24.744Z",
   "__v": 0
 }, {
   "_id": "5fda54e812b1759b8e53db9a",
-  "sizes": [
-    {
-      "url": "https://thumb.mghubcdn.com/mh/yuan-zun.jpg",
-      "width": 200,
-      "height": 310,
-      "type": "jpg"
-    }
-  ],
+  "sizes": [{
+    "url": "https://thumb.mghubcdn.com/mh/yuan-zun.jpg",
+    "width": 200,
+    "height": 310,
+    "type": "jpg"
+  }],
   "filename": "yuan-zun",
   "alt": "Yuan Zun",
-  "aspectRatio":{
+  "aspectRatio": {
     "width": 2,
     "height": 3,
     "text": "2:3"
@@ -39,41 +35,41 @@
   "updatedAt": "2021-01-29T09:04:11.845Z",
   "__v": 0
 }, {
-	"_id": "60153e4fed9b7395d7f92144",
-	"sizes": [{
-		"height": 1286,
-		"width": 1920,
-		"type": "jpg",
-		"url": "https://img.mghubcdn.com/file/imghub/memorize/0/1.jpg"
-	}],
-	"filename": "1",
-	"alt": "MEMORIZE chapter 0 #memorize/0/1.jpg",
-	"aspectRatio": {
-		"width": 3,
-		"height": 2,
-		"text": "3:2"
-	},
-	"createdAt": "2021-01-30T11:09:03.136Z",
-	"updatedAt": "2021-01-30T11:09:03.136Z",
-	"__v": 0
+  "_id": "60153e4fed9b7395d7f92144",
+  "sizes": [{
+    "height": 1286,
+    "width": 1920,
+    "type": "jpg",
+    "url": "https://img.mghubcdn.com/file/imghub/memorize/0/1.jpg"
+  }],
+  "filename": "1",
+  "alt": "MEMORIZE chapter 0 #memorize/0/1.jpg",
+  "aspectRatio": {
+    "width": 3,
+    "height": 2,
+    "text": "3:2"
+  },
+  "createdAt": "2021-01-30T11:09:03.136Z",
+  "updatedAt": "2021-01-30T11:09:03.136Z",
+  "__v": 0
 }, {
-	"_id": "60153e4fed9b7395d7f92145",
-	"sizes": [{
-		"height": 9720,
-		"width": 720,
-		"type": "jpg",
-		"url": "https://img.mghubcdn.com/file/imghub/memorize/0/2.jpg"
-	}],
-	"filename": "2",
-	"alt": "MEMORIZE chapter 0 #memorize/0/2.jpg",
-	"aspectRatio": {
-		"width": 2,
-		"height": 27,
-		"text": "2:27"
-	},
-	"createdAt": "2021-01-30T11:09:03.258Z",
-	"updatedAt": "2021-01-30T11:09:03.258Z",
-	"__v": 0
+  "_id": "60153e4fed9b7395d7f92145",
+  "sizes": [{
+    "height": 9720,
+    "width": 720,
+    "type": "jpg",
+    "url": "https://img.mghubcdn.com/file/imghub/memorize/0/2.jpg"
+  }],
+  "filename": "2",
+  "alt": "MEMORIZE chapter 0 #memorize/0/2.jpg",
+  "aspectRatio": {
+    "width": 2,
+    "height": 27,
+    "text": "2:27"
+  },
+  "createdAt": "2021-01-30T11:09:03.258Z",
+  "updatedAt": "2021-01-30T11:09:03.258Z",
+  "__v": 0
 }, {
   "_id": "60153e4fed9b7395d7f92146",
   "sizes": [{
@@ -93,57 +89,57 @@
   "updatedAt": "2021-01-30T11:09:03.322Z",
   "__v": 0
 }, {
-	"_id": "60153e4fed9b7395d7f92147",
-	"sizes": [{
-		"height": 10800,
-		"width": 720,
-		"type": "jpg",
-		"url": "https://img.mghubcdn.com/file/imghub/memorize/0/4.jpg"
-	}],
-	"filename": "4",
-	"alt": "MEMORIZE chapter 0 #memorize/0/4.jpg",
-	"aspectRatio": {
-		"width": 1,
-		"height": 15,
-		"text": "1:15"
-	},
-	"createdAt": "2021-01-30T11:09:03.379Z",
-	"updatedAt": "2021-01-30T11:09:03.379Z",
-	"__v": 0
+  "_id": "60153e4fed9b7395d7f92147",
+  "sizes": [{
+    "height": 10800,
+    "width": 720,
+    "type": "jpg",
+    "url": "https://img.mghubcdn.com/file/imghub/memorize/0/4.jpg"
+  }],
+  "filename": "4",
+  "alt": "MEMORIZE chapter 0 #memorize/0/4.jpg",
+  "aspectRatio": {
+    "width": 1,
+    "height": 15,
+    "text": "1:15"
+  },
+  "createdAt": "2021-01-30T11:09:03.379Z",
+  "updatedAt": "2021-01-30T11:09:03.379Z",
+  "__v": 0
 }, {
-	"_id": "60153e4fed9b7395d7f92148",
-	"sizes": [{
-		"height": 10800,
-		"width": 720,
-		"type": "jpg",
-		"url": "https://img.mghubcdn.com/file/imghub/memorize/0/5.jpg"
-	}],
-	"filename": "5",
-	"alt": "MEMORIZE chapter 0 #memorize/0/5.jpg",
-	"aspectRatio": {
-		"width": 1,
-		"height": 15,
-		"text": "1:15"
-	},
-	"createdAt": "2021-01-30T11:09:03.436Z",
-	"updatedAt": "2021-01-30T11:09:03.436Z",
-	"__v": 0
+  "_id": "60153e4fed9b7395d7f92148",
+  "sizes": [{
+    "height": 10800,
+    "width": 720,
+    "type": "jpg",
+    "url": "https://img.mghubcdn.com/file/imghub/memorize/0/5.jpg"
+  }],
+  "filename": "5",
+  "alt": "MEMORIZE chapter 0 #memorize/0/5.jpg",
+  "aspectRatio": {
+    "width": 1,
+    "height": 15,
+    "text": "1:15"
+  },
+  "createdAt": "2021-01-30T11:09:03.436Z",
+  "updatedAt": "2021-01-30T11:09:03.436Z",
+  "__v": 0
 }, {
-	"_id": "60153e4fed9b7395d7f92149",
-	"sizes": [{
-		"height": 1459,
-		"width": 1080,
-		"type": "jpg",
-		"url": "https://img.mghubcdn.com/file/imghub/memorize/0/6.jpg"
-	}],
-	"filename": "6",
-	"alt": "MEMORIZE chapter 0 #memorize/0/6.jpg",
-	"aspectRatio": {
-		"width": 37,
-		"height": 50,
-		"text": "37:50"
-	},
-	"createdAt": "2021-01-30T11:09:03.513Z",
-	"updatedAt": "2021-01-30T11:09:03.513Z",
-	"__v": 0
+  "_id": "60153e4fed9b7395d7f92149",
+  "sizes": [{
+    "height": 1459,
+    "width": 1080,
+    "type": "jpg",
+    "url": "https://img.mghubcdn.com/file/imghub/memorize/0/6.jpg"
+  }],
+  "filename": "6",
+  "alt": "MEMORIZE chapter 0 #memorize/0/6.jpg",
+  "aspectRatio": {
+    "width": 37,
+    "height": 50,
+    "text": "37:50"
+  },
+  "createdAt": "2021-01-30T11:09:03.513Z",
+  "updatedAt": "2021-01-30T11:09:03.513Z",
+  "__v": 0
 }]
