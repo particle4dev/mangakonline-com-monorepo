@@ -1,0 +1,4001 @@
+[{
+  "manga": {
+    "id": 953,
+    "rank": 4569,
+    "connection": "https://mangahub.io/manga/yaiba",
+    "title": "Yaiba",
+    "slug": "yaiba",
+    "status": "ongoing",
+    "image": "https://image.mostraveller.com/uploads/images/comics/3728/thumbnail.png",
+    "latestChapter": 150,
+    "author": "Aoyama Gosho",
+    "artist": "Aoyama Gosho",
+    "genres": "Action, Adventure, Comedy, Fantasy, Shounen",
+    "description": "[From Toriyama's World]:\nYaiba's whole life has been spent training to be a samurai and he doesn't know about anything else, not even girls. When he returns to Japan, a pair of cursed swords makes life even more exciting... and hilarious.\nNote: Starting at chapter 80, EMS Team started using bunko scans, so the voluming numbering is a little different.",
+    "alternativeTitle": "Yaiba!",
+    "mainSlug": "yaiba",
+    "isYaoi": false,
+    "isPorn": false,
+    "isSoftPorn": false,
+    "unauthFile": false,
+    "noCoverAd": false,
+    "isLicensed": false,
+    "createdDate": "2016-01-21T00:00:00.000Z",
+    "updatedDate": "2021-09-26T01:28:03.000Z",
+    "chapters": [{
+      "id": 92343,
+      "number": 1,
+      "title": "Yaiba's Meeting",
+      "slug": "yaiba-s-meeting",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92378,
+      "number": 2,
+      "title": "You'll Be Taking Care of Me",
+      "slug": "you-ll-be-taking-care-of-me",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92336,
+      "number": 3,
+      "title": "What's \"School?\"",
+      "slug": "what-s-school",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92374,
+      "number": 4,
+      "title": "Lots of Samurai",
+      "slug": "lots-of-samurai",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92359,
+      "number": 5,
+      "title": "No Need for Mercy",
+      "slug": "no-need-for-mercy",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92367,
+      "number": 6,
+      "title": "Stupid Onimaru",
+      "slug": "stupid-onimaru",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92358,
+      "number": 7,
+      "title": "I'll Be Your Opponent",
+      "slug": "i-ll-be-your-opponent",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92357,
+      "number": 8,
+      "title": "Great Clash",
+      "slug": "great-clash",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92355,
+      "number": 9,
+      "title": "Training!",
+      "slug": "training",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92376,
+      "number": 10,
+      "title": "Resurrected Wind God",
+      "slug": "resurrected-wind-god",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92337,
+      "number": 11,
+      "title": "Onimaru's Great Transformation",
+      "slug": "onimaru-s-great-transformation",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92353,
+      "number": 12,
+      "title": "The Other Demon Sword",
+      "slug": "the-other-demon-sword",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92340,
+      "number": 13,
+      "title": "Now to Tengu Peak",
+      "slug": "now-to-tengu-peak",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92345,
+      "number": 14,
+      "title": "Lightning God - Descent to Earth",
+      "slug": "lightning-god-descent-to-earth",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92354,
+      "number": 15,
+      "title": "Eight Demons Resurrected",
+      "slug": "eight-demons-resurrected",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92347,
+      "number": 16,
+      "title": "Frog Man's Attack",
+      "slug": "frog-man-s-attack",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92352,
+      "number": 17,
+      "title": "Yaiba in Danger",
+      "slug": "yaiba-in-danger",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92333,
+      "number": 18,
+      "title": "Frightening Ambitions",
+      "slug": "frightening-ambitions",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92341,
+      "number": 19,
+      "title": "I Won't Forgive Them!",
+      "slug": "i-won-t-forgive-them",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92342,
+      "number": 20,
+      "title": "Evil Demon - Yaiba",
+      "slug": "evil-demon-yaiba",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92344,
+      "number": 21,
+      "title": "Onimaru's Stratagem",
+      "slug": "onimaru-s-stratagem",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92369,
+      "number": 22,
+      "title": "True Form Revealed",
+      "slug": "true-form-revealed",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92334,
+      "number": 23,
+      "title": "Birth of a Killer Technique",
+      "slug": "birth-of-a-killer-technique",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92331,
+      "number": 24,
+      "title": "Bring It On!",
+      "slug": "bring-it-on",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92338,
+      "number": 25,
+      "title": "The Village's Suspicion",
+      "slug": "the-village-s-suspicion",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92339,
+      "number": 26,
+      "title": "Catch Me If You Can",
+      "slug": "catch-me-if-you-can",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92332,
+      "number": 27,
+      "title": "Tasty Trap",
+      "slug": "tasty-trap",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92335,
+      "number": 28,
+      "title": "Find Sayaka",
+      "slug": "find-sayaka",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92329,
+      "number": 29,
+      "title": "Namekuji Otoko Visits",
+      "slug": "namekuji-otoko-visits",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92328,
+      "number": 30,
+      "title": "I'm Den-chan",
+      "slug": "i-m-den-chan",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92330,
+      "number": 31,
+      "title": "Suddenly Batman",
+      "slug": "suddenly-batman",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92326,
+      "number": 32,
+      "title": "Lots of Vampires",
+      "slug": "lots-of-vampires",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92327,
+      "number": 33,
+      "title": "Yaiba, One on One",
+      "slug": "yaiba-one-on-one",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92325,
+      "number": 34,
+      "title": "Killer Senpuuken Sealed",
+      "slug": "killer-senpuuken-sealed",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92324,
+      "number": 35,
+      "title": "Fun Fun Hot Spring Training",
+      "slug": "fun-fun-hot-spring-training",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92323,
+      "number": 36,
+      "title": "Vol.4 chapter 36",
+      "slug": "vol-4-chapter-36",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92322,
+      "number": 37,
+      "title": "Onimaru Manjuu",
+      "slug": "onimaru-manjuu",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92320,
+      "number": 38,
+      "title": "Awakening Quicksand Island",
+      "slug": "awakening-quicksand-island",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92319,
+      "number": 39,
+      "title": "Book of Zombie Kojirou Revived",
+      "slug": "book-of-zombie-kojirou-revived",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92318,
+      "number": 40,
+      "title": "Musashi vs. Kojirou",
+      "slug": "musashi-vs-kojirou",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92294,
+      "number": 41,
+      "title": "The Demon Sword of Monohoshizao",
+      "slug": "the-demon-sword-of-monohoshizao",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92316,
+      "number": 42,
+      "title": "Who is Japan's No. 1?",
+      "slug": "who-is-japan-s-no-1",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92321,
+      "number": 43,
+      "title": "It's Training, Training",
+      "slug": "it-s-training-training",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92313,
+      "number": 44,
+      "title": "The Great Battle of Tokyo Dome",
+      "slug": "the-great-battle-of-tokyo-dome",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92311,
+      "number": 45,
+      "title": "Like, I Will Lose",
+      "slug": "like-i-will-lose",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92310,
+      "number": 46,
+      "title": "Raijin Power Again",
+      "slug": "raijin-power-again",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92315,
+      "number": 47,
+      "title": "The Birth of Kaminari Giri",
+      "slug": "the-birth-of-kaminari-giri",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92293,
+      "number": 48,
+      "title": "Mr. Onick's Sorcery",
+      "slug": "mr-onick-s-sorcery",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92306,
+      "number": 49,
+      "title": "All Out Attack on Onimaru Castle",
+      "slug": "all-out-attack-on-onimaru-castle",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92286,
+      "number": 50,
+      "title": "Intruders, Onimaru Castle",
+      "slug": "intruders-onimaru-castle",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92295,
+      "number": 51,
+      "title": "Onimaru Four Heavenly King",
+      "slug": "onimaru-four-heavenly-king",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92314,
+      "number": 52,
+      "title": "The Great Underwater Battle",
+      "slug": "the-great-underwater-battle",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92302,
+      "number": 53,
+      "title": "The Invisible, Strong Enemy",
+      "slug": "the-invisible-strong-enemy",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92298,
+      "number": 54,
+      "title": "The Trap within a Trap",
+      "slug": "the-trap-within-a-trap",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92297,
+      "number": 55,
+      "title": "The Suspiciously Strong Super Gorilla",
+      "slug": "the-suspiciously-strong-super-gorilla",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92301,
+      "number": 56,
+      "title": "Pinch Escape Operation",
+      "slug": "pinch-escape-operation",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92300,
+      "number": 57,
+      "title": "The Negligent Large Enemy",
+      "slug": "the-negligent-large-enemy",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92292,
+      "number": 58,
+      "title": "The Strongest Battle Machine",
+      "slug": "the-strongest-battle-machine",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92304,
+      "number": 59,
+      "title": "Onimaru Castle's Last Battle",
+      "slug": "onimaru-castle-s-last-battle",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92305,
+      "number": 60,
+      "title": "Onimaru's Entrance",
+      "slug": "onimaru-s-entrance",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92312,
+      "number": 61,
+      "title": "Vol.7 chapter 61",
+      "slug": "vol-7-chapter-61",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92307,
+      "number": 62,
+      "title": "Vol.7 chapter 62",
+      "slug": "vol-7-chapter-62",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92296,
+      "number": 63,
+      "title": "Vol.7 chapter 63",
+      "slug": "vol-7-chapter-63",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92303,
+      "number": 64,
+      "title": "Vol.7 chapter 64",
+      "slug": "vol-7-chapter-64",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92299,
+      "number": 65,
+      "title": "Vol.7 chapter 65",
+      "slug": "vol-7-chapter-65",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92291,
+      "number": 66,
+      "title": "Vol.7 chapter 66",
+      "slug": "vol-7-chapter-66",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92317,
+      "number": 67,
+      "title": "Vol.7 chapter 67",
+      "slug": "vol-7-chapter-67",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92290,
+      "number": 68,
+      "title": "Vol.7 chapter 68",
+      "slug": "vol-7-chapter-68",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92289,
+      "number": 69,
+      "title": "Vol.7 chapter 69",
+      "slug": "vol-7-chapter-69",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92309,
+      "number": 70,
+      "title": "Vol.8 chapter 70",
+      "slug": "vol-8-chapter-70",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92285,
+      "number": 71,
+      "title": "Vol.8 chapter 71",
+      "slug": "vol-8-chapter-71",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92287,
+      "number": 72,
+      "title": "Vol.8 chapter 72",
+      "slug": "vol-8-chapter-72",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92308,
+      "number": 73,
+      "title": "Vol.8 chapter 73",
+      "slug": "vol-8-chapter-73",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92283,
+      "number": 74,
+      "title": "Vol.8 chapter 74",
+      "slug": "vol-8-chapter-74",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92284,
+      "number": 75,
+      "title": "Vol.8 chapter 75",
+      "slug": "vol-8-chapter-75",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92282,
+      "number": 76,
+      "title": "Vol.8 chapter 76",
+      "slug": "vol-8-chapter-76",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92288,
+      "number": 77,
+      "title": "Vol.8 chapter 77",
+      "slug": "vol-8-chapter-77",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92281,
+      "number": 78,
+      "title": "Vol.8 chapter 78",
+      "slug": "vol-8-chapter-78",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92279,
+      "number": 79,
+      "title": "Vol.8 chapter 79",
+      "slug": "vol-8-chapter-79",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92278,
+      "number": 80,
+      "title": "Vol.9 chapter 80",
+      "slug": "vol-9-chapter-80",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92280,
+      "number": 81,
+      "title": "Vol.9 chapter 81",
+      "slug": "vol-9-chapter-81",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92277,
+      "number": 82,
+      "title": "Vol.9 chapter 82",
+      "slug": "vol-9-chapter-82",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92276,
+      "number": 83,
+      "title": "Vol.9 chapter 83",
+      "slug": "vol-9-chapter-83",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92274,
+      "number": 84,
+      "title": "Vol.9 chapter 84",
+      "slug": "vol-9-chapter-84",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92275,
+      "number": 85,
+      "title": "Vol.9 chapter 85",
+      "slug": "vol-9-chapter-85",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92273,
+      "number": 86,
+      "title": "Vol.9 chapter 86",
+      "slug": "vol-9-chapter-86",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92272,
+      "number": 87,
+      "title": "Vol.9 chapter 87",
+      "slug": "vol-9-chapter-87",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92271,
+      "number": 88,
+      "title": "Vol.9 chapter 88",
+      "slug": "vol-9-chapter-88",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92270,
+      "number": 89,
+      "title": "Vol.9 chapter 89",
+      "slug": "vol-9-chapter-89",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92269,
+      "number": 90,
+      "title": "Vol.10 chapter 90",
+      "slug": "vol-10-chapter-90",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92268,
+      "number": 91,
+      "title": "Vol.10 chapter 91",
+      "slug": "vol-10-chapter-91",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92267,
+      "number": 92,
+      "title": "Vol.10 chapter 92",
+      "slug": "vol-10-chapter-92",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92263,
+      "number": 93,
+      "title": "Vol.10 chapter 93",
+      "slug": "vol-10-chapter-93",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92238,
+      "number": 94,
+      "title": "Vol.10 chapter 94",
+      "slug": "vol-10-chapter-94",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92262,
+      "number": 95,
+      "title": "Vol.10 chapter 95",
+      "slug": "vol-10-chapter-95",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92237,
+      "number": 96,
+      "title": "Vol.10 chapter 96",
+      "slug": "vol-10-chapter-96",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92236,
+      "number": 97,
+      "title": "Vol.10 chapter 97",
+      "slug": "vol-10-chapter-97",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92239,
+      "number": 98,
+      "title": "Vol.10 chapter 98",
+      "slug": "vol-10-chapter-98",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92235,
+      "number": 99,
+      "title": "Vol.11 chapter 99",
+      "slug": "vol-11-chapter-99",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92264,
+      "number": 100,
+      "title": "Book of Birth of New Killing Technique \"Kaza Guruma\"",
+      "slug": "book-of-birth-of-new-killing-technique-kaza-guruma",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92234,
+      "number": 101,
+      "title": "Book of Hurry Yaiba",
+      "slug": "book-of-hurry-yaiba",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92266,
+      "number": 102,
+      "title": "Chapter of Morlets Cow Man",
+      "slug": "chapter-of-morlets-cow-man",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92233,
+      "number": 103,
+      "title": "Book of One Hit Finishing Blow",
+      "slug": "book-of-one-hit-finishing-blow",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92231,
+      "number": 104,
+      "title": "Book of Wanted All over the World",
+      "slug": "book-of-wanted-all-over-the-world",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92265,
+      "number": 105,
+      "title": "Book of Tactics of Monkey Bashou",
+      "slug": "book-of-tactics-of-monkey-bashou",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92243,
+      "number": 106,
+      "title": "Book of Protect the 6 Spheres",
+      "slug": "book-of-protect-the-6-spheres",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92232,
+      "number": 107,
+      "title": "Book of Bashou's Dream of Disappearing in the Darkness",
+      "slug": "book-of-bashou-s-dream-of-disappearing-in-the-darkness",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92256,
+      "number": 108,
+      "title": "Book of Sphere of Dragon God Invoked!?",
+      "slug": "book-of-sphere-of-dragon-god-invoked",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92255,
+      "number": 109,
+      "title": "Book of Waiting at the Summit of Mount Fuji",
+      "slug": "book-of-waiting-at-the-summit-of-mount-fuji",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92228,
+      "number": 110,
+      "title": "Book of True Samurai Power",
+      "slug": "book-of-true-samurai-power",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92226,
+      "number": 111,
+      "title": "Book of Onimaru Killing Technique \"Tornado Cut\"",
+      "slug": "book-of-onimaru-killing-technique-tornado-cut",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92227,
+      "number": 112,
+      "title": "Book of Exploration of Mount Fuji's Depth",
+      "slug": "book-of-exploration-of-mount-fuji-s-depth",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92219,
+      "number": 113,
+      "title": "Book of Trial 1 -Valley of Courage-",
+      "slug": "book-of-trial-1-valley-of-courage",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92254,
+      "number": 114,
+      "title": "Book of Trial 2 -Darkness of Strength-",
+      "slug": "book-of-trial-2-darkness-of-strength",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92250,
+      "number": 115,
+      "title": "Book of Trial 3 -Gallery of Wisdon-",
+      "slug": "book-of-trial-3-gallery-of-wisdon",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92230,
+      "number": 116,
+      "title": "Book of Trial 4 -Rope of Destiny-",
+      "slug": "book-of-trial-4-rope-of-destiny",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92249,
+      "number": 117,
+      "title": "Book of Trial 5 -Crossroad of the Heart-",
+      "slug": "book-of-trial-5-crossroad-of-the-heart",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92225,
+      "number": 118,
+      "title": "Book of Samurai that Has the Heart of Justice",
+      "slug": "book-of-samurai-that-has-the-heart-of-justice",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92246,
+      "number": 119,
+      "title": "Book of Revive! \"Sphere of Dragon God\"",
+      "slug": "book-of-revive-sphere-of-dragon-god",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92224,
+      "number": 120,
+      "title": "Book of Full Speed with Dragon God Power",
+      "slug": "book-of-full-speed-with-dragon-god-power",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92258,
+      "number": 121,
+      "title": "Book of Invaders from the Moon",
+      "slug": "book-of-invaders-from-the-moon",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92247,
+      "number": 122,
+      "title": "Book of Empres Kaguya Appears",
+      "slug": "book-of-empres-kaguya-appears",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92229,
+      "number": 123,
+      "title": "Book of First Retreat",
+      "slug": "book-of-first-retreat",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92221,
+      "number": 124,
+      "title": "Book of Kaguya's Weak Point",
+      "slug": "book-of-kaguya-s-weak-point",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92222,
+      "number": 125,
+      "title": "Book of Kaguya vs Onimaru",
+      "slug": "book-of-kaguya-vs-onimaru",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92261,
+      "number": 126,
+      "title": "Book of 24 Hours Great Clash",
+      "slug": "book-of-24-hours-great-clash",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 92260,
+      "number": 127,
+      "title": "Book of Three Way Battle",
+      "slug": "book-of-three-way-battle",
+      "date": "2016-01-21T00:00:00.000Z"
+    }, {
+      "id": 443640,
+      "number": 128,
+      "title": "Vol.12 Chapter 128: The Onimaru's Corps in crisis",
+      "slug": "vol-12-chapter-128-the-onimaru-s-corps-in-crisis",
+      "date": "2019-03-01T02:28:35.000Z"
+    }, {
+      "id": 458497,
+      "number": 129,
+      "title": "Vol.13 Chapter 129: Moon-being Mangetsu Appears",
+      "slug": "vol-13-chapter-129-moon-being-mangetsu-appears",
+      "date": "2019-04-16T21:13:08.000Z"
+    }, {
+      "id": 459376,
+      "number": 130,
+      "title": "Vol.13 Chapter 130: The Submerge Tokyo Strategy",
+      "slug": "vol-13-chapter-130-the-submerge-tokyo-strategy",
+      "date": "2019-04-20T02:13:07.000Z"
+    }, {
+      "id": 545935,
+      "number": 131,
+      "title": "Vol.13 Chapter 131: Deadly Lobster Combination",
+      "slug": "vol-13-chapter-131-deadly-lobster-combination",
+      "date": "2019-12-05T03:30:04.000Z"
+    }, {
+      "id": 556971,
+      "number": 132,
+      "title": "Vol.13 Chapter 132: The Counterattack Begins",
+      "slug": "vol-13-chapter-132-the-counterattack-begins",
+      "date": "2019-12-25T18:21:40.000Z"
+    }, {
+      "id": 568907,
+      "number": 133,
+      "title": "Vol.14 Chapter 133: Mangetsu Defeated",
+      "slug": "vol-14-chapter-133-mangetsu-defeated",
+      "date": "2020-01-23T22:33:22.000Z"
+    }, {
+      "id": 570690,
+      "number": 134,
+      "title": "Vol.14 Chapter 134: The Flying Submarine",
+      "slug": "vol-14-chapter-134-the-flying-submarine",
+      "date": "2020-01-28T01:34:34.000Z"
+    }, {
+      "id": 592274,
+      "number": 135,
+      "title": "The Decoy Strategy",
+      "slug": "the-decoy-strategy",
+      "date": "2020-03-19T01:37:47.000Z"
+    }, {
+      "id": 636010,
+      "number": 136,
+      "title": "Tsukikage's Ferocious Counterattack",
+      "slug": "tsukikage-s-ferocious-counterattack",
+      "date": "2020-06-21T03:14:50.000Z"
+    }, {
+      "id": 652220,
+      "number": 137,
+      "title": "Hurry Musashi!! Hurry Yaiba!!",
+      "slug": "hurry-musashi-hurry-yaiba",
+      "date": "2020-07-24T23:46:31.000Z"
+    }, {
+      "id": 682012,
+      "number": 138,
+      "title": "Let's Go Kaguya Corps",
+      "slug": "let-s-go-kaguya-corps",
+      "date": "2020-09-12T18:21:10.000Z"
+    }, {
+      "id": 684919,
+      "number": 139,
+      "title": "Assassin Rabbit Jyuubee",
+      "slug": "assassin-rabbit-jyuubee",
+      "date": "2020-09-19T00:18:13.000Z"
+    }, {
+      "id": 719379,
+      "number": 140,
+      "title": "Musashi's Cleverness",
+      "slug": "musashi-s-cleverness",
+      "date": "2020-11-21T01:51:03.000Z"
+    }, {
+      "id": 722968,
+      "number": 141,
+      "title": "Sayaka's Rescue",
+      "slug": "sayaka-s-rescue",
+      "date": "2020-11-28T23:37:31.000Z"
+    }, {
+      "id": 730552,
+      "number": 142,
+      "title": "The Mystery of Kaguya",
+      "slug": "the-mystery-of-kaguya",
+      "date": "2020-12-12T19:36:34.000Z"
+    }, {
+      "id": 737167,
+      "number": 143,
+      "title": "A Dangerous Guy Approaches",
+      "slug": "a-dangerous-guy-approaches",
+      "date": "2020-12-24T17:36:37.000Z"
+    }, {
+      "id": 772210,
+      "number": 144,
+      "title": "The Extreme Invader",
+      "slug": "the-extreme-invader",
+      "date": "2021-02-09T15:53:56.000Z"
+    }, {
+      "id": 876259,
+      "number": 145,
+      "title": "Protect Sayaka",
+      "slug": "protect-sayaka",
+      "date": "2021-07-09T13:47:59.000Z"
+    }, {
+      "id": 894641,
+      "number": 146,
+      "title": "Gekkou's Counterattack",
+      "slug": "gekkou-s-counterattack",
+      "date": "2021-07-31T02:11:04.000Z"
+    }, {
+      "id": 903812,
+      "number": 147,
+      "title": "The Overlord's Fearsome Sword",
+      "slug": "the-overlord-s-fearsome-sword",
+      "date": "2021-08-13T21:26:03.000Z"
+    }, {
+      "id": 912838,
+      "number": 148,
+      "title": "Yaiba, Defeated?!",
+      "slug": "yaiba-defeated",
+      "date": "2021-08-28T13:56:04.000Z"
+    }, {
+      "id": 921226,
+      "number": 149,
+      "title": "Sayaka's Resolve",
+      "slug": "sayaka-s-resolve",
+      "date": "2021-09-11T19:18:18.000Z"
+    }, {
+      "id": 928996,
+      "number": 150,
+      "title": "Potential For Victory",
+      "slug": "potential-for-victory",
+      "date": "2021-09-26T01:28:03.000Z"
+    }]
+  }
+}, {
+  "manga": {
+    "id": 30643,
+    "rank": 1978,
+    "connection": "https://mangahub.io/manga/dragon-ball-full-color-edition",
+    "title": "Dragon Ball - Full Color Edition",
+    "slug": "dragon-ball-full-color-edition",
+    "status": "ongoing",
+    "image": "https://image.mostraveller.com/uploads/images/comics/57413/thumbnail.png",
+    "latestChapter": 519,
+    "author": "Toriyama Akira",
+    "artist": "Toriyama Akira",
+    "genres": "Action, Adult, Comedy, Fantasy",
+    "description": "Digital colored version of Akira Toriyama's original best selling manga",
+    "alternativeTitle": "Dragon Ball カラー版",
+    "mainSlug": "dragon-ball-full-color-edition",
+    "isYaoi": false,
+    "isPorn": false,
+    "isSoftPorn": false,
+    "unauthFile": false,
+    "noCoverAd": false,
+    "isLicensed": false,
+    "createdDate": "2020-05-12T09:26:21.000Z",
+    "updatedDate": "2021-07-11T06:11:03.000Z",
+    "chapters": [{
+      "id": 616375,
+      "number": 1,
+      "title": "Vol.1 Chapter 1: Bloomers And Son Goku",
+      "slug": "vol-1-chapter-1-bloomers-and-son-goku",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616372,
+      "number": 2,
+      "title": "Vol.1 Chapter 2: No Balls!",
+      "slug": "vol-1-chapter-2-no-balls",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616373,
+      "number": 3,
+      "title": "Vol.1 Chapter 3: Goku Runs To The Beach",
+      "slug": "vol-1-chapter-3-goku-runs-to-the-beach",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616422,
+      "number": 4,
+      "title": "Vol.1 Chapter 4: Kame Sen'nin's Kinto'un",
+      "slug": "vol-1-chapter-4-kame-sen-nin-s-kinto-un",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616420,
+      "number": 5,
+      "title": "Vol.1 Chapter 5: Oolong Appears!",
+      "slug": "vol-1-chapter-5-oolong-appears",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616421,
+      "number": 6,
+      "title": "Vol.1 Chapter 6: Oolong Vs. Son Goku",
+      "slug": "vol-1-chapter-6-oolong-vs-son-goku",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616419,
+      "number": 7,
+      "title": "Vol.1 Chapter 7: Yamcha And Pu'ar",
+      "slug": "vol-1-chapter-7-yamcha-and-pu-ar",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616418,
+      "number": 8,
+      "title": "Vol.1 Chapter 8: The Fearsome Yamcha",
+      "slug": "vol-1-chapter-8-the-fearsome-yamcha",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616417,
+      "number": 9,
+      "title": "Vol.1 Chapter 9: The Dragon Balls In Danger!",
+      "slug": "vol-1-chapter-9-the-dragon-balls-in-danger",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616416,
+      "number": 10,
+      "title": "Vol.1 Chapter 10: The Great Robbery Plan",
+      "slug": "vol-1-chapter-10-the-great-robbery-plan",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616415,
+      "number": 11,
+      "title": "Vol.1 Chapter 11: Gyūmaо̄ On Frypan Mountain",
+      "slug": "vol-1-chapter-11-gy-ma-on-frypan-mountain",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616413,
+      "number": 12,
+      "title": "Vol.1 Chapter 12: Calling Upon Kame Sen'nin",
+      "slug": "vol-1-chapter-12-calling-upon-kame-sen-nin",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616412,
+      "number": 13,
+      "title": "Vol.1 Chapter 13: Kame Sen'nin's Bashо̄sen",
+      "slug": "vol-1-chapter-13-kame-sen-nin-s-bash-sen",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616411,
+      "number": 14,
+      "title": "Vol.2 Chapter 14: Kame Sen'nin's Kamehameha!!",
+      "slug": "vol-2-chapter-14-kame-sen-nin-s-kamehameha",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616414,
+      "number": 15,
+      "title": "Vol.2 Chapter 15: The Qi Xing Qiu, Found",
+      "slug": "vol-2-chapter-15-the-qi-xing-qiu-found",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616410,
+      "number": 16,
+      "title": "Vol.2 Chapter 16: Rabbit Ears",
+      "slug": "vol-2-chapter-16-rabbit-ears",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616408,
+      "number": 17,
+      "title": "Vol.2 Chapter 17: The Boss's Special Move",
+      "slug": "vol-2-chapter-17-the-boss-s-special-move",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616407,
+      "number": 18,
+      "title": "Vol.2 Chapter 18: The Dragon Balls Are Stolen!!",
+      "slug": "vol-2-chapter-18-the-dragon-balls-are-stolen",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616409,
+      "number": 19,
+      "title": "Vol.2 Chapter 19: The Dragon Finally Appears!",
+      "slug": "vol-2-chapter-19-the-dragon-finally-appears",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616406,
+      "number": 20,
+      "title": "Vol.2 Chapter 20: The Wish To The Dragon!!",
+      "slug": "vol-2-chapter-20-the-wish-to-the-dragon",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616405,
+      "number": 21,
+      "title": "Vol.2 Chapter 21: Full Moon",
+      "slug": "vol-2-chapter-21-full-moon",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616404,
+      "number": 22,
+      "title": "Vol.2 Chapter 22: Goku's Great Transformation!",
+      "slug": "vol-2-chapter-22-goku-s-great-transformation",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616403,
+      "number": 23,
+      "title": "Vol.2 Chapter 23: The Dragon Team Splits Up",
+      "slug": "vol-2-chapter-23-the-dragon-team-splits-up",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616402,
+      "number": 24,
+      "title": "Vol.2 Chapter 24: Kame Sen'nin's Training Fee",
+      "slug": "vol-2-chapter-24-kame-sen-nin-s-training-fee",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616401,
+      "number": 25,
+      "title": "Vol.2 Chapter 25: A Rival(?) Appears!",
+      "slug": "vol-2-chapter-25-a-rival-appears",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616399,
+      "number": 26,
+      "title": "Vol.2 Chapter 26: A Mysterious Girl",
+      "slug": "vol-2-chapter-26-a-mysterious-girl",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616398,
+      "number": 27,
+      "title": "Vol.3 Chapter 27: Lunch's Sneeze",
+      "slug": "vol-3-chapter-27-lunch-s-sneeze",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616397,
+      "number": 28,
+      "title": "Vol.3 Chapter 28: Training Begins!!",
+      "slug": "vol-3-chapter-28-training-begins",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616396,
+      "number": 29,
+      "title": "Vol.3 Chapter 29: Search For The Turtle-Mark Stone",
+      "slug": "vol-3-chapter-29-search-for-the-turtle-mark-stone",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616395,
+      "number": 30,
+      "title": "Vol.3 Chapter 30: Milk Delivery",
+      "slug": "vol-3-chapter-30-milk-delivery",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616400,
+      "number": 31,
+      "title": "Vol.3 Chapter 31: The Kamesen Style's Severe Training",
+      "slug": "vol-3-chapter-31-the-kamesen-style-s-severe-training",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 875623,
+      "number": 32,
+      "title": "Vol.3 - Chapter 32",
+      "slug": "vol-3-chapter-32",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 616394,
+      "number": 33,
+      "title": "Vol.3 Chapter 33: The Power Of Training!!",
+      "slug": "vol-3-chapter-33-the-power-of-training",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616393,
+      "number": 34,
+      "title": "Vol.3 Chapter 34: Unrivaled Under The Heavens!!",
+      "slug": "vol-3-chapter-34-unrivaled-under-the-heavens",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616391,
+      "number": 35,
+      "title": "Vol.3 Chapter 35: The Match-Ups Decided!!",
+      "slug": "vol-3-chapter-35-the-match-ups-decided",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616390,
+      "number": 36,
+      "title": "Vol.3 Chapter 36: Battle #1",
+      "slug": "vol-3-chapter-36-battle-1",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616392,
+      "number": 37,
+      "title": "Vol.3 Chapter 37: Battle #2",
+      "slug": "vol-3-chapter-37-battle-2",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616388,
+      "number": 38,
+      "title": "Vol.3 Chapter 38: Battle #3",
+      "slug": "vol-3-chapter-38-battle-3",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616389,
+      "number": 39,
+      "title": "Vol.3 Chapter 39: Battle #4",
+      "slug": "vol-3-chapter-39-battle-4",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616387,
+      "number": 40,
+      "title": "Vol.3 Chapter 40: Goku's Tail",
+      "slug": "vol-3-chapter-40-goku-s-tail",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616385,
+      "number": 41,
+      "title": "Vol.4 Chapter 41: Kuririn Vs. Jackie Chun",
+      "slug": "vol-4-chapter-41-kuririn-vs-jackie-chun",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616386,
+      "number": 42,
+      "title": "Vol.4 Chapter 42: A Furious Duel!!",
+      "slug": "vol-4-chapter-42-a-furious-duel",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616384,
+      "number": 43,
+      "title": "Vol.4 Chapter 43: The Mysterious Jackie Chun",
+      "slug": "vol-4-chapter-43-the-mysterious-jackie-chun",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616382,
+      "number": 44,
+      "title": "Vol.4 Chapter 44: Son Goku Vs. Namu",
+      "slug": "vol-4-chapter-44-son-goku-vs-namu",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616383,
+      "number": 45,
+      "title": "Vol.4 Chapter 45: The Great Mid-Air Battle!!",
+      "slug": "vol-4-chapter-45-the-great-mid-air-battle",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616381,
+      "number": 46,
+      "title": "Vol.4 Chapter 46: The Big Showdown",
+      "slug": "vol-4-chapter-46-the-big-showdown",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616380,
+      "number": 47,
+      "title": "Vol.4 Chapter 47: Kamehameha",
+      "slug": "vol-4-chapter-47-kamehameha",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616379,
+      "number": 48,
+      "title": "Vol.4 Chapter 48: Son Goku's Monkey Imitation",
+      "slug": "vol-4-chapter-48-son-goku-s-monkey-imitation",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616378,
+      "number": 49,
+      "title": "Vol.4 Chapter 49: Jackie Chun's Counterattack!",
+      "slug": "vol-4-chapter-49-jackie-chun-s-counterattack",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616376,
+      "number": 50,
+      "title": "Vol.4 Chapter 50: Goku's Direst Crisis!!",
+      "slug": "vol-4-chapter-50-goku-s-direst-crisis",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616377,
+      "number": 51,
+      "title": "Vol.4 Chapter 51: The Tenkaichi Budōkai In Chaos!!",
+      "slug": "vol-4-chapter-51-the-tenkaichi-bud-kai-in-chaos",
+      "date": "2020-05-12T09:35:06.000Z"
+    }, {
+      "id": 616511,
+      "number": 52,
+      "title": "Vol.4 Chapter 52: Back To The Climax!!",
+      "slug": "vol-4-chapter-52-back-to-the-climax",
+      "date": "2020-05-12T13:30:47.000Z"
+    }, {
+      "id": 616510,
+      "number": 53,
+      "title": "Vol.4 Chapter 53: Climax",
+      "slug": "vol-4-chapter-53-climax",
+      "date": "2020-05-12T13:30:47.000Z"
+    }, {
+      "id": 616512,
+      "number": 54,
+      "title": "Vol.4 Chapter 54: Another Adventure!!",
+      "slug": "vol-4-chapter-54-another-adventure",
+      "date": "2020-05-12T13:30:47.000Z"
+    }, {
+      "id": 616521,
+      "number": 55,
+      "title": "Vol.5 Chapter 55: Red Ribbon",
+      "slug": "vol-5-chapter-55-red-ribbon",
+      "date": "2020-05-12T13:30:47.000Z"
+    }, {
+      "id": 616520,
+      "number": 56,
+      "title": "Vol.5 Chapter 56: Competition For The Dragon Balls",
+      "slug": "vol-5-chapter-56-competition-for-the-dragon-balls",
+      "date": "2020-05-12T13:30:47.000Z"
+    }, {
+      "id": 616518,
+      "number": 57,
+      "title": "Vol.5 Chapter 57: Assault On Muscle Tower!!",
+      "slug": "vol-5-chapter-57-assault-on-muscle-tower",
+      "date": "2020-05-12T13:30:47.000Z"
+    }, {
+      "id": 616519,
+      "number": 58,
+      "title": "Vol.5 Chapter 58: The Horror Of Muscle Tower",
+      "slug": "vol-5-chapter-58-the-horror-of-muscle-tower",
+      "date": "2020-05-12T13:30:47.000Z"
+    }, {
+      "id": 616524,
+      "number": 59,
+      "title": "Vol.5 Chapter 59: The Demon On The Third Floor!!",
+      "slug": "vol-5-chapter-59-the-demon-on-the-third-floor",
+      "date": "2020-05-12T13:44:33.000Z"
+    }, {
+      "id": 616523,
+      "number": 60,
+      "title": "Vol.5 Chapter 60: The Ninja Murasaki!!",
+      "slug": "vol-5-chapter-60-the-ninja-murasaki",
+      "date": "2020-05-12T13:44:33.000Z"
+    }, {
+      "id": 616522,
+      "number": 61,
+      "title": "Vol.5 Chapter 61: Ninpō! The 4½ Tatami Counter!!",
+      "slug": "vol-5-chapter-61-ninp-the-4-tatami-counter",
+      "date": "2020-05-12T13:44:33.000Z"
+    }, {
+      "id": 616516,
+      "number": 62,
+      "title": "Vol.5 Chapter 62: Danger! Bushin No Jutsu",
+      "slug": "vol-5-chapter-62-danger-bushin-no-jutsu",
+      "date": "2020-05-12T13:30:47.000Z"
+    }, {
+      "id": 616515,
+      "number": 63,
+      "title": "Vol.5 Chapter 63: Android #8",
+      "slug": "vol-5-chapter-63-android-8",
+      "date": "2020-05-12T13:30:47.000Z"
+    }, {
+      "id": 616514,
+      "number": 64,
+      "title": "Vol.5 Chapter 64: Fifth Floor: The Hair Raising Buyon",
+      "slug": "vol-5-chapter-64-fifth-floor-the-hair-raising-buyon",
+      "date": "2020-05-12T13:30:47.000Z"
+    }, {
+      "id": 693877,
+      "number": 65,
+      "title": "Vol.5 Chapter 65: How To Unjiggle A Jiggler",
+      "slug": "vol-5-chapter-65-how-to-unjiggle-a-jiggler",
+      "date": "2020-10-02T06:21:14.000Z"
+    }, {
+      "id": 694435,
+      "number": 66,
+      "title": "Vol.5 Chapter 66: The Muscle Tower End",
+      "slug": "vol-5-chapter-66-the-muscle-tower-end",
+      "date": "2020-10-03T14:31:32.000Z"
+    }, {
+      "id": 696771,
+      "number": 67,
+      "title": "Vol.5 Chapter 67: To The West ...",
+      "slug": "vol-5-chapter-67-to-the-west",
+      "date": "2020-10-05T18:34:13.000Z"
+    }, {
+      "id": 697279,
+      "number": 68,
+      "title": "Vol.6 Chapter 68: Bulma's House In West City",
+      "slug": "vol-6-chapter-68-bulma-s-house-in-west-city",
+      "date": "2020-10-06T12:31:05.000Z"
+    }, {
+      "id": 697972,
+      "number": 69,
+      "title": "Vol.6 Chapter 69: Bulma And Goku, Part Two",
+      "slug": "vol-6-chapter-69-bulma-and-goku-part-two",
+      "date": "2020-10-07T20:32:21.000Z"
+    }, {
+      "id": 713366,
+      "number": 70,
+      "title": "Vol.6 Chapter 70: Bulma's Big Mistake!",
+      "slug": "vol-6-chapter-70-bulma-s-big-mistake",
+      "date": "2020-11-08T07:22:00.000Z"
+    }, {
+      "id": 713449,
+      "number": 71,
+      "title": "Vol.6 Chapter 71: The Turtle Is Spotted!",
+      "slug": "vol-6-chapter-71-the-turtle-is-spotted",
+      "date": "2020-11-08T11:22:54.000Z"
+    }, {
+      "id": 717910,
+      "number": 72,
+      "title": "Vol.6 Chapter 72: The Blue Meanies",
+      "slug": "vol-6-chapter-72-the-blue-meanies",
+      "date": "2020-11-17T17:22:33.000Z"
+    }, {
+      "id": 720120,
+      "number": 73,
+      "title": "Vol.6 Chapter 73: The Wrong Turtle To Mess With",
+      "slug": "vol-6-chapter-73-the-wrong-turtle-to-mess-with",
+      "date": "2020-11-22T08:21:15.000Z"
+    }, {
+      "id": 720121,
+      "number": 74,
+      "title": "Vol.6 Chapter 74: The Pirates' Trap!",
+      "slug": "vol-6-chapter-74-the-pirates-trap",
+      "date": "2020-11-22T08:21:15.000Z"
+    }, {
+      "id": 726653,
+      "number": 75,
+      "title": "Vol.6 Chapter 75: Ambush In The Pirates' Cove",
+      "slug": "vol-6-chapter-75-ambush-in-the-pirates-cove",
+      "date": "2020-12-06T08:28:26.000Z"
+    }, {
+      "id": 751604,
+      "number": 76,
+      "title": "The Treasure!",
+      "slug": "the-treasure",
+      "date": "2021-01-14T21:36:08.000Z"
+    }, {
+      "id": 771635,
+      "number": 77,
+      "title": "Bright Blue's Eyes",
+      "slug": "bright-blue-s-eyes",
+      "date": "2021-02-09T05:08:13.000Z"
+    }, {
+      "id": 772323,
+      "number": 78,
+      "title": "The Great Escape!",
+      "slug": "the-great-escape",
+      "date": "2021-02-09T18:23:23.000Z"
+    }, {
+      "id": 772943,
+      "number": 79,
+      "title": "Run Run Run!",
+      "slug": "run-run-run",
+      "date": "2021-02-10T17:51:09.000Z"
+    }, {
+      "id": 775495,
+      "number": 80,
+      "title": "The Three Stolen Dragon Balls!",
+      "slug": "the-three-stolen-dragon-balls",
+      "date": "2021-02-13T13:36:23.000Z"
+    }, {
+      "id": 775555,
+      "number": 81,
+      "title": "Chased to Penguin Village!",
+      "slug": "chased-to-penguin-village",
+      "date": "2021-02-13T15:22:47.000Z"
+    }, {
+      "id": 775901,
+      "number": 82,
+      "title": "The Broken Dragon Radar!",
+      "slug": "the-broken-dragon-radar",
+      "date": "2021-02-14T01:54:18.000Z"
+    }, {
+      "id": 777227,
+      "number": 83,
+      "title": "The Stolen Dragon Radar",
+      "slug": "the-stolen-dragon-radar",
+      "date": "2021-02-15T20:21:27.000Z"
+    }, {
+      "id": 777296,
+      "number": 84,
+      "title": "The Korin Sanctuary",
+      "slug": "the-korin-sanctuary",
+      "date": "2021-02-16T01:50:56.000Z"
+    }, {
+      "id": 777418,
+      "number": 85,
+      "title": "Taopaipai The Assassin",
+      "slug": "taopaipai-the-assassin",
+      "date": "2021-02-16T04:51:37.000Z"
+    }, {
+      "id": 777609,
+      "number": 86,
+      "title": "The Devastating Dodon-Pa!!",
+      "slug": "the-devastating-dodon-pa",
+      "date": "2021-02-16T08:38:31.000Z"
+    }, {
+      "id": 777716,
+      "number": 87,
+      "title": "The Great Climb",
+      "slug": "the-great-climb",
+      "date": "2021-02-16T12:36:12.000Z"
+    }, {
+      "id": 780825,
+      "number": 88,
+      "title": "The Sage of Korin Tower",
+      "slug": "the-sage-of-korin-tower",
+      "date": "2021-02-21T03:22:36.000Z"
+    }, {
+      "id": 781112,
+      "number": 89,
+      "title": "A Drink of Water",
+      "slug": "a-drink-of-water",
+      "date": "2021-02-21T13:36:44.000Z"
+    }, {
+      "id": 781422,
+      "number": 90,
+      "title": "Son Goku's Counterattack",
+      "slug": "son-goku-s-counterattack",
+      "date": "2021-02-21T23:36:18.000Z"
+    }, {
+      "id": 781441,
+      "number": 91,
+      "title": "Battle in the Sanctuary!!",
+      "slug": "battle-in-the-sanctuary",
+      "date": "2021-02-22T00:21:09.000Z"
+    }, {
+      "id": 781905,
+      "number": 92,
+      "title": "Tao Pai Pai at the Brink!!",
+      "slug": "tao-pai-pai-at-the-brink",
+      "date": "2021-02-22T12:51:39.000Z"
+    }, {
+      "id": 785089,
+      "number": 93,
+      "title": "Goku's Charge",
+      "slug": "goku-s-charge",
+      "date": "2021-02-27T05:13:54.000Z"
+    }, {
+      "id": 785612,
+      "number": 94,
+      "title": "Vol.8 Chapter 94: Son Goku's Smooth Assault",
+      "slug": "vol-8-chapter-94-son-goku-s-smooth-assault",
+      "date": "2021-02-28T00:30:25.000Z"
+    }, {
+      "id": 786225,
+      "number": 95,
+      "title": "Commander Red Dies!",
+      "slug": "commander-red-dies",
+      "date": "2021-03-01T00:03:42.000Z"
+    }, {
+      "id": 788550,
+      "number": 96,
+      "title": "Vol.8 Chapter 96: The Triumph!",
+      "slug": "vol-8-chapter-96-the-triumph",
+      "date": "2021-03-03T16:36:54.000Z"
+    }, {
+      "id": 788785,
+      "number": 97,
+      "title": "Vol.8 Chapter 97: The Lost Dragon Ball",
+      "slug": "vol-8-chapter-97-the-lost-dragon-ball",
+      "date": "2021-03-04T05:35:52.000Z"
+    }, {
+      "id": 789787,
+      "number": 98,
+      "title": "The All-Seeing Crone",
+      "slug": "the-all-seeing-crone",
+      "date": "2021-03-06T00:03:06.000Z"
+    }, {
+      "id": 790321,
+      "number": 99,
+      "title": "The Five Champions",
+      "slug": "the-five-champions",
+      "date": "2021-03-06T20:32:57.000Z"
+    }, {
+      "id": 791907,
+      "number": 100,
+      "title": "Battle of the Bleeders",
+      "slug": "battle-of-the-bleeders",
+      "date": "2021-03-09T04:34:13.000Z"
+    }, {
+      "id": 792480,
+      "number": 101,
+      "title": "The Devil's Cesspool",
+      "slug": "the-devil-s-cesspool",
+      "date": "2021-03-09T22:32:26.000Z"
+    }, {
+      "id": 792482,
+      "number": 102,
+      "title": "Goku at the Plate!",
+      "slug": "goku-at-the-plate",
+      "date": "2021-03-09T22:32:26.000Z"
+    }, {
+      "id": 792478,
+      "number": 103,
+      "title": "The Power of Goku",
+      "slug": "the-power-of-goku",
+      "date": "2021-03-09T22:32:26.000Z"
+    }, {
+      "id": 792477,
+      "number": 104,
+      "title": "The Beam of Evil",
+      "slug": "the-beam-of-evil",
+      "date": "2021-03-09T22:32:26.000Z"
+    }, {
+      "id": 792476,
+      "number": 105,
+      "title": "The Last Champion",
+      "slug": "the-last-champion",
+      "date": "2021-03-09T22:32:26.000Z"
+    }, {
+      "id": 792475,
+      "number": 106,
+      "title": "Strong vs. Strong",
+      "slug": "strong-vs-strong",
+      "date": "2021-03-09T22:32:26.000Z"
+    }, {
+      "id": 792474,
+      "number": 107,
+      "title": "To Win by a Tail",
+      "slug": "to-win-by-a-tail",
+      "date": "2021-03-09T22:32:26.000Z"
+    }, {
+      "id": 792473,
+      "number": 108,
+      "title": "Son Gohan",
+      "slug": "son-gohan",
+      "date": "2021-03-09T22:32:26.000Z"
+    }, {
+      "id": 792472,
+      "number": 109,
+      "title": "A Second Helping of Pilaf",
+      "slug": "a-second-helping-of-pilaf",
+      "date": "2021-03-09T22:32:26.000Z"
+    }, {
+      "id": 792471,
+      "number": 110,
+      "title": "The Pilaf Machine",
+      "slug": "the-pilaf-machine",
+      "date": "2021-03-09T22:32:26.000Z"
+    }, {
+      "id": 792470,
+      "number": 111,
+      "title": "Reenter the Dragon",
+      "slug": "reenter-the-dragon",
+      "date": "2021-03-09T22:32:26.000Z"
+    }, {
+      "id": 792469,
+      "number": 112,
+      "title": "Go, Goku, Go!",
+      "slug": "go-goku-go",
+      "date": "2021-03-09T22:32:26.000Z"
+    }, {
+      "id": 792468,
+      "number": 113,
+      "title": "Return to the Tournament",
+      "slug": "return-to-the-tournament",
+      "date": "2021-03-09T22:32:26.000Z"
+    }, {
+      "id": 792467,
+      "number": 114,
+      "title": "The Qualifying Rounds",
+      "slug": "the-qualifying-rounds",
+      "date": "2021-03-09T22:32:26.000Z"
+    }, {
+      "id": 792466,
+      "number": 115,
+      "title": "King Chappa",
+      "slug": "king-chappa",
+      "date": "2021-03-09T22:32:26.000Z"
+    }, {
+      "id": 792465,
+      "number": 116,
+      "title": "The Doctored Lottery",
+      "slug": "the-doctored-lottery",
+      "date": "2021-03-09T22:32:26.000Z"
+    }, {
+      "id": 793174,
+      "number": 117,
+      "title": "Yamcha's Kamehameha!",
+      "slug": "yamcha-s-kamehameha",
+      "date": "2021-03-10T19:17:52.000Z"
+    }, {
+      "id": 793184,
+      "number": 118,
+      "title": "Vol.10 Chapter 118: The Cruelty Of Tien",
+      "slug": "vol-10-chapter-118-the-cruelty-of-tien",
+      "date": "2021-03-10T19:33:19.000Z"
+    }, {
+      "id": 793207,
+      "number": 119,
+      "title": "The Full Moon Grudge",
+      "slug": "the-full-moon-grudge",
+      "date": "2021-03-10T21:22:51.000Z"
+    }, {
+      "id": 793179,
+      "number": 120,
+      "title": "Look Out! The Dodon Blast!",
+      "slug": "look-out-the-dodon-blast",
+      "date": "2021-03-10T19:17:52.000Z"
+    }, {
+      "id": 793194,
+      "number": 121,
+      "title": "Vol.10 Chapter 121: Kuririn's Master Plan",
+      "slug": "vol-10-chapter-121-kuririn-s-master-plan",
+      "date": "2021-03-10T20:32:25.000Z"
+    }, {
+      "id": 793177,
+      "number": 122,
+      "title": "Goku vs. Panput",
+      "slug": "goku-vs-panput",
+      "date": "2021-03-10T19:17:52.000Z"
+    }, {
+      "id": 793183,
+      "number": 123,
+      "title": "Vol.10 Chapter 123: Tien Vs. Jackie Chun",
+      "slug": "vol-10-chapter-123-tien-vs-jackie-chun",
+      "date": "2021-03-10T19:33:19.000Z"
+    }, {
+      "id": 793472,
+      "number": 124,
+      "title": "Young Tien",
+      "slug": "young-tien",
+      "date": "2021-03-11T06:06:59.000Z"
+    }, {
+      "id": 793484,
+      "number": 125,
+      "title": "Goku vs. Kuririn",
+      "slug": "goku-vs-kuririn",
+      "date": "2021-03-11T06:06:59.000Z"
+    }, {
+      "id": 793483,
+      "number": 126,
+      "title": "Goku vs. Kuririn, Part 2",
+      "slug": "goku-vs-kuririn-part-2",
+      "date": "2021-03-11T06:06:59.000Z"
+    }, {
+      "id": 793482,
+      "number": 127,
+      "title": "Goku vs. Kuririn, Part 3",
+      "slug": "goku-vs-kuririn-part-3",
+      "date": "2021-03-11T06:06:59.000Z"
+    }, {
+      "id": 793481,
+      "number": 128,
+      "title": "Goku vs. Tien",
+      "slug": "goku-vs-tien",
+      "date": "2021-03-11T06:06:59.000Z"
+    }, {
+      "id": 793480,
+      "number": 129,
+      "title": "The Volleyball Play",
+      "slug": "the-volleyball-play",
+      "date": "2021-03-11T06:06:59.000Z"
+    }, {
+      "id": 793479,
+      "number": 130,
+      "title": "The Fist of the Sun",
+      "slug": "the-fist-of-the-sun",
+      "date": "2021-03-11T06:06:59.000Z"
+    }, {
+      "id": 793478,
+      "number": 131,
+      "title": "Tsuru-Sen'nin",
+      "slug": "tsuru-sen-nin",
+      "date": "2021-03-11T06:06:59.000Z"
+    }, {
+      "id": 793477,
+      "number": 132,
+      "title": "The Arms Race",
+      "slug": "the-arms-race",
+      "date": "2021-03-11T06:06:59.000Z"
+    }, {
+      "id": 793476,
+      "number": 133,
+      "title": "A Desperation Move",
+      "slug": "a-desperation-move",
+      "date": "2021-03-11T06:06:59.000Z"
+    }, {
+      "id": 793475,
+      "number": 134,
+      "title": "Up in the Air",
+      "slug": "up-in-the-air",
+      "date": "2021-03-11T06:06:59.000Z"
+    }, {
+      "id": 794286,
+      "number": 135,
+      "title": "The Death of Kuririn",
+      "slug": "the-death-of-kuririn",
+      "date": "2021-03-12T09:27:28.000Z"
+    }, {
+      "id": 794288,
+      "number": 136,
+      "title": "Target: Tenka'ichi Budōkai",
+      "slug": "target-tenka-ichi-bud-kai",
+      "date": "2021-03-12T09:27:28.000Z"
+    }, {
+      "id": 794302,
+      "number": 137,
+      "title": "We Need You, Goku!",
+      "slug": "we-need-you-goku",
+      "date": "2021-03-12T09:45:45.000Z"
+    }, {
+      "id": 794311,
+      "number": 138,
+      "title": "The Weirdo with the Ball",
+      "slug": "the-weirdo-with-the-ball",
+      "date": "2021-03-12T09:45:45.000Z"
+    }, {
+      "id": 794310,
+      "number": 139,
+      "title": "Yajirobe's Prey",
+      "slug": "yajirobe-s-prey",
+      "date": "2021-03-12T09:45:45.000Z"
+    }, {
+      "id": 794309,
+      "number": 140,
+      "title": "The Martial Artist Hunters",
+      "slug": "the-martial-artist-hunters",
+      "date": "2021-03-12T09:45:45.000Z"
+    }, {
+      "id": 794308,
+      "number": 141,
+      "title": "Goku vs. Tambourine",
+      "slug": "goku-vs-tambourine",
+      "date": "2021-03-12T09:45:45.000Z"
+    }, {
+      "id": 794307,
+      "number": 142,
+      "title": "Piccolo Descends!",
+      "slug": "piccolo-descends",
+      "date": "2021-03-12T09:45:45.000Z"
+    }, {
+      "id": 794306,
+      "number": 143,
+      "title": "Goku vs. The Demon King",
+      "slug": "goku-vs-the-demon-king",
+      "date": "2021-03-12T09:45:45.000Z"
+    }, {
+      "id": 794305,
+      "number": 144,
+      "title": "Goku...Loses?",
+      "slug": "goku-loses",
+      "date": "2021-03-12T09:45:45.000Z"
+    }, {
+      "id": 794304,
+      "number": 145,
+      "title": "The Muten-Rōshi's Decision",
+      "slug": "the-muten-r-shi-s-decision",
+      "date": "2021-03-12T09:45:45.000Z"
+    }, {
+      "id": 794303,
+      "number": 146,
+      "title": "The Mafū-Ba",
+      "slug": "the-maf-ba",
+      "date": "2021-03-12T09:45:45.000Z"
+    }, {
+      "id": 794856,
+      "number": 147,
+      "title": "The Demon King of Old... Restored!",
+      "slug": "the-demon-king-of-old-restored",
+      "date": "2021-03-13T07:38:59.000Z"
+    }, {
+      "id": 794877,
+      "number": 148,
+      "title": "Go Ask Karin!",
+      "slug": "go-ask-karin",
+      "date": "2021-03-13T07:38:59.000Z"
+    }, {
+      "id": 794876,
+      "number": 149,
+      "title": "World Domination",
+      "slug": "world-domination",
+      "date": "2021-03-13T07:38:59.000Z"
+    }, {
+      "id": 794875,
+      "number": 150,
+      "title": "Karin's Quandary",
+      "slug": "karin-s-quandary",
+      "date": "2021-03-13T07:38:59.000Z"
+    }, {
+      "id": 875622,
+      "number": 151,
+      "title": "Vol.13 - Chapter 151",
+      "slug": "vol-13-chapter-151",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 794870,
+      "number": 152,
+      "title": "Piccolo's World",
+      "slug": "piccolo-s-world",
+      "date": "2021-03-13T07:38:59.000Z"
+    }, {
+      "id": 794869,
+      "number": 153,
+      "title": "Tenshinhan's Decision!!",
+      "slug": "tenshinhan-s-decision",
+      "date": "2021-03-13T07:38:59.000Z"
+    }, {
+      "id": 794868,
+      "number": 154,
+      "title": "Tenshinhan vs. Drum",
+      "slug": "tenshinhan-vs-drum",
+      "date": "2021-03-13T07:38:59.000Z"
+    }, {
+      "id": 794867,
+      "number": 155,
+      "title": "Guess Who's Back?",
+      "slug": "guess-who-s-back",
+      "date": "2021-03-13T07:38:59.000Z"
+    }, {
+      "id": 794866,
+      "number": 156,
+      "title": "Fury",
+      "slug": "fury",
+      "date": "2021-03-13T07:38:59.000Z"
+    }, {
+      "id": 794865,
+      "number": 157,
+      "title": "The Immortal Battle",
+      "slug": "the-immortal-battle",
+      "date": "2021-03-13T07:38:59.000Z"
+    }, {
+      "id": 794864,
+      "number": 158,
+      "title": "Goku's Greatest Crisis!",
+      "slug": "goku-s-greatest-crisis",
+      "date": "2021-03-13T07:38:59.000Z"
+    }, {
+      "id": 794863,
+      "number": 159,
+      "title": "The Blasted Earth",
+      "slug": "the-blasted-earth",
+      "date": "2021-03-13T07:38:59.000Z"
+    }, {
+      "id": 794862,
+      "number": 160,
+      "title": "Goku's Final Gamble",
+      "slug": "goku-s-final-gamble",
+      "date": "2021-03-13T07:38:59.000Z"
+    }, {
+      "id": 794861,
+      "number": 161,
+      "title": "The Fist of Son Goku",
+      "slug": "the-fist-of-son-goku",
+      "date": "2021-03-13T07:38:59.000Z"
+    }, {
+      "id": 794874,
+      "number": 162,
+      "title": "The Nyoi-bō's Secret",
+      "slug": "the-nyoi-b-s-secret",
+      "date": "2021-03-13T07:38:59.000Z"
+    }, {
+      "id": 794860,
+      "number": 163,
+      "title": "The Heaven of Kami-sama",
+      "slug": "the-heaven-of-kami-sama",
+      "date": "2021-03-13T07:38:59.000Z"
+    }, {
+      "id": 794859,
+      "number": 164,
+      "title": "Enter God",
+      "slug": "enter-god",
+      "date": "2021-03-13T07:38:59.000Z"
+    }, {
+      "id": 794858,
+      "number": 165,
+      "title": "Shen Long Resurrected!",
+      "slug": "shen-long-resurrected",
+      "date": "2021-03-13T07:38:59.000Z"
+    }, {
+      "id": 795377,
+      "number": 166,
+      "title": "The Reunion",
+      "slug": "the-reunion",
+      "date": "2021-03-14T01:48:07.000Z"
+    }, {
+      "id": 795382,
+      "number": 167,
+      "title": "New Challengers",
+      "slug": "new-challengers",
+      "date": "2021-03-14T01:48:07.000Z"
+    }, {
+      "id": 795381,
+      "number": 168,
+      "title": "The 8 Finalists",
+      "slug": "the-8-finalists",
+      "date": "2021-03-14T01:48:07.000Z"
+    }, {
+      "id": 795380,
+      "number": 169,
+      "title": "Tenshinhan vs Taopaipai",
+      "slug": "tenshinhan-vs-taopaipai",
+      "date": "2021-03-14T01:48:07.000Z"
+    }, {
+      "id": 795379,
+      "number": 170,
+      "title": "The Assassin's Struggles",
+      "slug": "the-assassin-s-struggles",
+      "date": "2021-03-14T01:48:07.000Z"
+    }, {
+      "id": 795818,
+      "number": 171,
+      "title": "Goku Gets Married!",
+      "slug": "goku-gets-married",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795847,
+      "number": 172,
+      "title": "Kuririn vs. Demon Junior",
+      "slug": "kuririn-vs-demon-junior",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795846,
+      "number": 173,
+      "title": "Kuririn vs. Demon Junior, Part 2",
+      "slug": "kuririn-vs-demon-junior-part-2",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795845,
+      "number": 174,
+      "title": "Yamcha vs. Shen",
+      "slug": "yamcha-vs-shen",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795844,
+      "number": 175,
+      "title": "Shen",
+      "slug": "shen",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795843,
+      "number": 176,
+      "title": "Goku vs. Tenshinhan",
+      "slug": "goku-vs-tenshinhan",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795842,
+      "number": 177,
+      "title": "Goku vs. Tenshinhan, Part 2",
+      "slug": "goku-vs-tenshinhan-part-2",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795841,
+      "number": 178,
+      "title": "Tenshinhan's Secret Move!",
+      "slug": "tenshinhan-s-secret-move",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795840,
+      "number": 179,
+      "title": "The Two Weak Points",
+      "slug": "the-two-weak-points",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795839,
+      "number": 180,
+      "title": "Kami-sama vs. the Demon King",
+      "slug": "kami-sama-vs-the-demon-king",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795838,
+      "number": 181,
+      "title": "God's Miscalculation",
+      "slug": "god-s-miscalculation",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795837,
+      "number": 182,
+      "title": "The Fated Showdown!",
+      "slug": "the-fated-showdown",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795830,
+      "number": 183,
+      "title": "Testing the Waters",
+      "slug": "testing-the-waters",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795829,
+      "number": 184,
+      "title": "The Real Fight",
+      "slug": "the-real-fight",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795835,
+      "number": 185,
+      "title": "The Super Kamehameha",
+      "slug": "the-super-kamehameha",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795828,
+      "number": 186,
+      "title": "Panic at the Tenka'ichi Budōkai!",
+      "slug": "panic-at-the-tenka-ichi-bud-kai",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795827,
+      "number": 187,
+      "title": "Piccolo's Super Giantification Spell",
+      "slug": "piccolo-s-super-giantification-spell",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795826,
+      "number": 188,
+      "title": "Goku's Fight",
+      "slug": "goku-s-fight",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795825,
+      "number": 189,
+      "title": "The Demon King's Final Gamble",
+      "slug": "the-demon-king-s-final-gamble",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795824,
+      "number": 190,
+      "title": "Piccolo Destroys Everything!",
+      "slug": "piccolo-destroys-everything",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795823,
+      "number": 191,
+      "title": "The 10 Count",
+      "slug": "the-10-count",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795822,
+      "number": 192,
+      "title": "The Last Gasp!",
+      "slug": "the-last-gasp",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795821,
+      "number": 193,
+      "title": "The Fate of the Strongest",
+      "slug": "the-fate-of-the-strongest",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 795820,
+      "number": 194,
+      "title": "The Gift of the Dragon Balls",
+      "slug": "the-gift-of-the-dragon-balls",
+      "date": "2021-03-14T18:35:58.000Z"
+    }, {
+      "id": 796906,
+      "number": 195,
+      "title": "The Mysterious Warrior From Space",
+      "slug": "the-mysterious-warrior-from-space",
+      "date": "2021-03-16T08:00:31.000Z"
+    }, {
+      "id": 796924,
+      "number": 196,
+      "title": "Kakarrot",
+      "slug": "kakarrot",
+      "date": "2021-03-16T08:21:48.000Z"
+    }, {
+      "id": 796923,
+      "number": 197,
+      "title": "Tails of Future Not-Quite-Past",
+      "slug": "tails-of-future-not-quite-past",
+      "date": "2021-03-16T08:21:48.000Z"
+    }, {
+      "id": 796922,
+      "number": 198,
+      "title": "An Enemy in Common",
+      "slug": "an-enemy-in-common",
+      "date": "2021-03-16T08:21:48.000Z"
+    }, {
+      "id": 796921,
+      "number": 199,
+      "title": "An Unexpected Strength",
+      "slug": "an-unexpected-strength",
+      "date": "2021-03-16T08:21:48.000Z"
+    }, {
+      "id": 796920,
+      "number": 200,
+      "title": "Nothing Up My Sleeve...",
+      "slug": "nothing-up-my-sleeve",
+      "date": "2021-03-16T08:21:48.000Z"
+    }, {
+      "id": 796917,
+      "number": 201,
+      "title": "Piccolo's Farewell to Arms!?",
+      "slug": "piccolo-s-farewell-to-arms",
+      "date": "2021-03-16T08:21:48.000Z"
+    }, {
+      "id": 796911,
+      "number": 202,
+      "title": "A Surprise Appearance",
+      "slug": "a-surprise-appearance",
+      "date": "2021-03-16T08:21:48.000Z"
+    }, {
+      "id": 796910,
+      "number": 203,
+      "title": "Goku's Last Chance",
+      "slug": "goku-s-last-chance",
+      "date": "2021-03-16T08:21:48.000Z"
+    }, {
+      "id": 796913,
+      "number": 204,
+      "title": "Sayonara, Goku",
+      "slug": "sayonara-goku",
+      "date": "2021-03-16T08:21:48.000Z"
+    }, {
+      "id": 796909,
+      "number": 205,
+      "title": "A Warrior in Hell",
+      "slug": "a-warrior-in-hell",
+      "date": "2021-03-16T08:00:31.000Z"
+    }, {
+      "id": 796908,
+      "number": 206,
+      "title": "Gohan and Piccolo",
+      "slug": "gohan-and-piccolo",
+      "date": "2021-03-16T08:00:31.000Z"
+    }, {
+      "id": 875402,
+      "number": 207,
+      "title": "Vol.18 - Chapter 207",
+      "slug": "vol-18-chapter-207",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875453,
+      "number": 208,
+      "title": "Vol.18 - Chapter 208",
+      "slug": "vol-18-chapter-208",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875451,
+      "number": 209,
+      "title": "Vol.18 - Chapter 209",
+      "slug": "vol-18-chapter-209",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875449,
+      "number": 210,
+      "title": "Vol.18 - Chapter 210",
+      "slug": "vol-18-chapter-210",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875447,
+      "number": 211,
+      "title": "Vol.18 - Chapter 211",
+      "slug": "vol-18-chapter-211",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875445,
+      "number": 212,
+      "title": "Vol.18 - Chapter 212",
+      "slug": "vol-18-chapter-212",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875443,
+      "number": 214,
+      "title": "Vol.18 - Chapter 214",
+      "slug": "vol-18-chapter-214",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875441,
+      "number": 215,
+      "title": "Vol.18 - Chapter 215",
+      "slug": "vol-18-chapter-215",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875439,
+      "number": 216,
+      "title": "Vol.18 - Chapter 216",
+      "slug": "vol-18-chapter-216",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875437,
+      "number": 217,
+      "title": "Vol.18 - Chapter 217",
+      "slug": "vol-18-chapter-217",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875435,
+      "number": 218,
+      "title": "Vol.18 - Chapter 218",
+      "slug": "vol-18-chapter-218",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875434,
+      "number": 219,
+      "title": "Vol.19 - Chapter 219",
+      "slug": "vol-19-chapter-219",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875432,
+      "number": 220,
+      "title": "Vol.19 - Chapter 220",
+      "slug": "vol-19-chapter-220",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875430,
+      "number": 221,
+      "title": "Vol.19 - Chapter 221",
+      "slug": "vol-19-chapter-221",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875428,
+      "number": 222,
+      "title": "Vol.19 - Chapter 222",
+      "slug": "vol-19-chapter-222",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875426,
+      "number": 223,
+      "title": "Vol.19 - Chapter 223",
+      "slug": "vol-19-chapter-223",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875424,
+      "number": 224,
+      "title": "Vol.19 - Chapter 224",
+      "slug": "vol-19-chapter-224",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875423,
+      "number": 225,
+      "title": "Vol.19 - Chapter 225",
+      "slug": "vol-19-chapter-225",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875421,
+      "number": 226,
+      "title": "Vol.19 - Chapter 226",
+      "slug": "vol-19-chapter-226",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875419,
+      "number": 227,
+      "title": "Vol.19 - Chapter 227",
+      "slug": "vol-19-chapter-227",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875417,
+      "number": 228,
+      "title": "Vol.19 - Chapter 228",
+      "slug": "vol-19-chapter-228",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875415,
+      "number": 229,
+      "title": "Vol.19 - Chapter 229",
+      "slug": "vol-19-chapter-229",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875413,
+      "number": 230,
+      "title": "Vol.19 - Chapter 230",
+      "slug": "vol-19-chapter-230",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875411,
+      "number": 231,
+      "title": "Vol.20 - Chapter 231",
+      "slug": "vol-20-chapter-231",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875410,
+      "number": 232,
+      "title": "Vol.20 - Chapter 232",
+      "slug": "vol-20-chapter-232",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875408,
+      "number": 233,
+      "title": "Vol.20 - Chapter 233",
+      "slug": "vol-20-chapter-233",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875406,
+      "number": 234,
+      "title": "Vol.20 - Chapter 234",
+      "slug": "vol-20-chapter-234",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875404,
+      "number": 235,
+      "title": "Vol.20 - Chapter 235",
+      "slug": "vol-20-chapter-235",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875403,
+      "number": 236,
+      "title": "Vol.20 - Chapter 236",
+      "slug": "vol-20-chapter-236",
+      "date": "2021-07-09T04:46:21.000Z"
+    }, {
+      "id": 875621,
+      "number": 237,
+      "title": "Vol.20 - Chapter 237",
+      "slug": "vol-20-chapter-237",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875620,
+      "number": 238,
+      "title": "Vol.20 - Chapter 238",
+      "slug": "vol-20-chapter-238",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875619,
+      "number": 239,
+      "title": "Vol.20 - Chapter 239",
+      "slug": "vol-20-chapter-239",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875618,
+      "number": 240,
+      "title": "Vol.20 - Chapter 240",
+      "slug": "vol-20-chapter-240",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875616,
+      "number": 241,
+      "title": "Vol.20 - Chapter 241",
+      "slug": "vol-20-chapter-241",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875615,
+      "number": 242,
+      "title": "Vol.20 - Chapter 242",
+      "slug": "vol-20-chapter-242",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875617,
+      "number": 243,
+      "title": "Vol.20 - Chapter 243",
+      "slug": "vol-20-chapter-243",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875614,
+      "number": 244,
+      "title": "Vol.21 - Chapter 244",
+      "slug": "vol-21-chapter-244",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875613,
+      "number": 245,
+      "title": "Vol.21 - Chapter 245",
+      "slug": "vol-21-chapter-245",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875611,
+      "number": 246,
+      "title": "Vol.21 - Chapter 246",
+      "slug": "vol-21-chapter-246",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875612,
+      "number": 247,
+      "title": "Vol.21 - Chapter 247",
+      "slug": "vol-21-chapter-247",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875610,
+      "number": 248,
+      "title": "Vol.21 - Chapter 248",
+      "slug": "vol-21-chapter-248",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875609,
+      "number": 249,
+      "title": "Vol.21 - Chapter 249",
+      "slug": "vol-21-chapter-249",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875606,
+      "number": 250,
+      "title": "Vol.21 - Chapter 250",
+      "slug": "vol-21-chapter-250",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875608,
+      "number": 251,
+      "title": "Vol.21 - Chapter 251",
+      "slug": "vol-21-chapter-251",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875605,
+      "number": 252,
+      "title": "Vol.21 - Chapter 252",
+      "slug": "vol-21-chapter-252",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875607,
+      "number": 253,
+      "title": "Vol.21 - Chapter 253",
+      "slug": "vol-21-chapter-253",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875604,
+      "number": 254,
+      "title": "Vol.21 - Chapter 254",
+      "slug": "vol-21-chapter-254",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875602,
+      "number": 255,
+      "title": "Vol.21 - Chapter 255",
+      "slug": "vol-21-chapter-255",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875601,
+      "number": 256,
+      "title": "Vol.21 - Chapter 256",
+      "slug": "vol-21-chapter-256",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875603,
+      "number": 257,
+      "title": "Vol.22 - Chapter 257",
+      "slug": "vol-22-chapter-257",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875600,
+      "number": 258,
+      "title": "Vol.22 - Chapter 258",
+      "slug": "vol-22-chapter-258",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875599,
+      "number": 259,
+      "title": "Vol.22 - Chapter 259",
+      "slug": "vol-22-chapter-259",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875597,
+      "number": 260,
+      "title": "Vol.22 - Chapter 260",
+      "slug": "vol-22-chapter-260",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875598,
+      "number": 261,
+      "title": "Vol.22 - Chapter 261",
+      "slug": "vol-22-chapter-261",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875595,
+      "number": 262,
+      "title": "Vol.22 - Chapter 262",
+      "slug": "vol-22-chapter-262",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875596,
+      "number": 263,
+      "title": "Vol.22 - Chapter 263",
+      "slug": "vol-22-chapter-263",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875593,
+      "number": 264,
+      "title": "Vol.22 - Chapter 264",
+      "slug": "vol-22-chapter-264",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875594,
+      "number": 265,
+      "title": "Vol.22 - Chapter 265",
+      "slug": "vol-22-chapter-265",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875592,
+      "number": 266,
+      "title": "Vol.22 - Chapter 266",
+      "slug": "vol-22-chapter-266",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875591,
+      "number": 267,
+      "title": "Vol.22 - Chapter 267",
+      "slug": "vol-22-chapter-267",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875590,
+      "number": 268,
+      "title": "Vol.22 - Chapter 268",
+      "slug": "vol-22-chapter-268",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875588,
+      "number": 269,
+      "title": "Vol.22 - Chapter 269",
+      "slug": "vol-22-chapter-269",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875589,
+      "number": 270,
+      "title": "Vol.23 - Chapter 270",
+      "slug": "vol-23-chapter-270",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875586,
+      "number": 271,
+      "title": "Vol.23 - Chapter 271",
+      "slug": "vol-23-chapter-271",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875585,
+      "number": 272,
+      "title": "Vol.23 - Chapter 272",
+      "slug": "vol-23-chapter-272",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875587,
+      "number": 273,
+      "title": "Vol.23 - Chapter 273",
+      "slug": "vol-23-chapter-273",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875584,
+      "number": 274,
+      "title": "Vol.23 - Chapter 274",
+      "slug": "vol-23-chapter-274",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875582,
+      "number": 275,
+      "title": "Vol.23 - Chapter 275",
+      "slug": "vol-23-chapter-275",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875583,
+      "number": 276,
+      "title": "Vol.23 - Chapter 276",
+      "slug": "vol-23-chapter-276",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875581,
+      "number": 277,
+      "title": "Vol.23 - Chapter 277",
+      "slug": "vol-23-chapter-277",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875580,
+      "number": 278,
+      "title": "Vol.23 - Chapter 278",
+      "slug": "vol-23-chapter-278",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875579,
+      "number": 279,
+      "title": "Vol.23 - Chapter 279",
+      "slug": "vol-23-chapter-279",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875578,
+      "number": 280,
+      "title": "Vol.23 - Chapter 280",
+      "slug": "vol-23-chapter-280",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875577,
+      "number": 281,
+      "title": "Vol.23 - Chapter 281",
+      "slug": "vol-23-chapter-281",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875575,
+      "number": 282,
+      "title": "Vol.24 - Chapter 282",
+      "slug": "vol-24-chapter-282",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875574,
+      "number": 283,
+      "title": "Vol.24 - Chapter 283",
+      "slug": "vol-24-chapter-283",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875576,
+      "number": 284,
+      "title": "Vol.24 - Chapter 284",
+      "slug": "vol-24-chapter-284",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875573,
+      "number": 286,
+      "title": "Vol.24 - Chapter 286",
+      "slug": "vol-24-chapter-286",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875572,
+      "number": 289,
+      "title": "Vol.24 - Chapter 289",
+      "slug": "vol-24-chapter-289",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875570,
+      "number": 290,
+      "title": "Vol.24 - Chapter 290",
+      "slug": "vol-24-chapter-290",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875569,
+      "number": 291,
+      "title": "Vol.24 - Chapter 291",
+      "slug": "vol-24-chapter-291",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875571,
+      "number": 293,
+      "title": "Vol.24 - Chapter 293",
+      "slug": "vol-24-chapter-293",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875567,
+      "number": 294,
+      "title": "Vol.25 - Chapter 294",
+      "slug": "vol-25-chapter-294",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875565,
+      "number": 295,
+      "title": "Vol.25 - Chapter 295",
+      "slug": "vol-25-chapter-295",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875563,
+      "number": 296,
+      "title": "Vol.25 - Chapter 296",
+      "slug": "vol-25-chapter-296",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875566,
+      "number": 297,
+      "title": "Vol.25 - Chapter 297",
+      "slug": "vol-25-chapter-297",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875564,
+      "number": 298,
+      "title": "Vol.25 - Chapter 298",
+      "slug": "vol-25-chapter-298",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875559,
+      "number": 299,
+      "title": "Vol.25 - Chapter 299",
+      "slug": "vol-25-chapter-299",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875558,
+      "number": 300,
+      "title": "Vol.25 - Chapter 300",
+      "slug": "vol-25-chapter-300",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875518,
+      "number": 301,
+      "title": "Vol.25 - Chapter 301",
+      "slug": "vol-25-chapter-301",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875516,
+      "number": 302,
+      "title": "Vol.25 - Chapter 302",
+      "slug": "vol-25-chapter-302",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875515,
+      "number": 303,
+      "title": "Vol.25 - Chapter 303",
+      "slug": "vol-25-chapter-303",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875517,
+      "number": 304,
+      "title": "Vol.25 - Chapter 304",
+      "slug": "vol-25-chapter-304",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875514,
+      "number": 305,
+      "title": "Vol.25 - Chapter 305",
+      "slug": "vol-25-chapter-305",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875551,
+      "number": 306,
+      "title": "Vol.25 - Chapter 306",
+      "slug": "vol-25-chapter-306",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875550,
+      "number": 307,
+      "title": "Vol.26 - Chapter 307",
+      "slug": "vol-26-chapter-307",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875552,
+      "number": 308,
+      "title": "Vol.26 - Chapter 308",
+      "slug": "vol-26-chapter-308",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875549,
+      "number": 309,
+      "title": "Vol.26 - Chapter 309",
+      "slug": "vol-26-chapter-309",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875548,
+      "number": 310,
+      "title": "Vol.26 - Chapter 310",
+      "slug": "vol-26-chapter-310",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875545,
+      "number": 311,
+      "title": "Vol.26 - Chapter 311",
+      "slug": "vol-26-chapter-311",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875547,
+      "number": 312,
+      "title": "Vol.26 - Chapter 312",
+      "slug": "vol-26-chapter-312",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875546,
+      "number": 313,
+      "title": "Vol.26 - Chapter 313",
+      "slug": "vol-26-chapter-313",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875544,
+      "number": 315,
+      "title": "Vol.26 - Chapter 315",
+      "slug": "vol-26-chapter-315",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875543,
+      "number": 316,
+      "title": "Vol.26 - Chapter 316",
+      "slug": "vol-26-chapter-316",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875541,
+      "number": 317,
+      "title": "Vol.26 - Chapter 317",
+      "slug": "vol-26-chapter-317",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875542,
+      "number": 318,
+      "title": "Vol.27 - Chapter 318",
+      "slug": "vol-27-chapter-318",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875540,
+      "number": 319,
+      "title": "Vol.27 - Chapter 319",
+      "slug": "vol-27-chapter-319",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875539,
+      "number": 320,
+      "title": "Vol.27 - Chapter 320",
+      "slug": "vol-27-chapter-320",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875538,
+      "number": 321,
+      "title": "Vol.27 - Chapter 321",
+      "slug": "vol-27-chapter-321",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875537,
+      "number": 322,
+      "title": "Vol.27 - Chapter 322",
+      "slug": "vol-27-chapter-322",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875535,
+      "number": 323,
+      "title": "Vol.27 - Chapter 323",
+      "slug": "vol-27-chapter-323",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875536,
+      "number": 324,
+      "title": "Vol.27 - Chapter 324",
+      "slug": "vol-27-chapter-324",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875534,
+      "number": 325,
+      "title": "Vol.27 - Chapter 325",
+      "slug": "vol-27-chapter-325",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875533,
+      "number": 326,
+      "title": "Vol.27 - Chapter 326",
+      "slug": "vol-27-chapter-326",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875532,
+      "number": 327,
+      "title": "Vol.27 - Chapter 327",
+      "slug": "vol-27-chapter-327",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875529,
+      "number": 328,
+      "title": "Vol.27 - Chapter 328",
+      "slug": "vol-27-chapter-328",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875530,
+      "number": 329,
+      "title": "Vol.27 - Chapter 329",
+      "slug": "vol-27-chapter-329",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875531,
+      "number": 330,
+      "title": "Vol.28 - Chapter 330",
+      "slug": "vol-28-chapter-330",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875528,
+      "number": 331,
+      "title": "Vol.28 - Chapter 331",
+      "slug": "vol-28-chapter-331",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875527,
+      "number": 332,
+      "title": "Vol.28 - Chapter 332",
+      "slug": "vol-28-chapter-332",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875525,
+      "number": 333,
+      "title": "Vol.28 - Chapter 333",
+      "slug": "vol-28-chapter-333",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875524,
+      "number": 334,
+      "title": "Vol.28 - Chapter 334",
+      "slug": "vol-28-chapter-334",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875526,
+      "number": 335,
+      "title": "Vol.28 - Chapter 335",
+      "slug": "vol-28-chapter-335",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875522,
+      "number": 336,
+      "title": "Vol.28 - Chapter 336",
+      "slug": "vol-28-chapter-336",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875523,
+      "number": 337,
+      "title": "Vol.28 - Chapter 337",
+      "slug": "vol-28-chapter-337",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875519,
+      "number": 338,
+      "title": "Vol.28 - Chapter 338",
+      "slug": "vol-28-chapter-338",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875520,
+      "number": 340,
+      "title": "Vol.28 - Chapter 340",
+      "slug": "vol-28-chapter-340",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875500,
+      "number": 341,
+      "title": "What’s Wrong, Son Goku?",
+      "slug": "what-s-wrong-son-goku",
+      "date": "2021-07-09T05:07:31.000Z"
+    }, {
+      "id": 875502,
+      "number": 342,
+      "title": "Goku, Defeated!",
+      "slug": "goku-defeated",
+      "date": "2021-07-09T05:07:31.000Z"
+    }, {
+      "id": 875501,
+      "number": 343,
+      "title": "Vegeta Makes His Appearance",
+      "slug": "vegeta-makes-his-appearance",
+      "date": "2021-07-09T05:07:31.000Z"
+    }, {
+      "id": 875499,
+      "number": 344,
+      "title": "The Artificial Humans Lose their Cool",
+      "slug": "the-artificial-humans-lose-their-cool",
+      "date": "2021-07-09T05:07:31.000Z"
+    }, {
+      "id": 875507,
+      "number": 345,
+      "title": "No. 20 Runs Away!",
+      "slug": "no-20-runs-away",
+      "date": "2021-07-09T05:07:31.000Z"
+    }, {
+      "id": 875513,
+      "number": 346,
+      "title": "Trunks Returns",
+      "slug": "trunks-returns",
+      "date": "2021-07-09T05:07:31.000Z"
+    }, {
+      "id": 875510,
+      "number": 347,
+      "title": "Trunks’ Confusion",
+      "slug": "trunks-confusion",
+      "date": "2021-07-09T05:07:31.000Z"
+    }, {
+      "id": 875511,
+      "number": 348,
+      "title": "To the Laboratory…!!",
+      "slug": "to-the-laboratory",
+      "date": "2021-07-09T05:07:31.000Z"
+    }, {
+      "id": 875512,
+      "number": 349,
+      "title": "No. 17 and No. 18 Are Awakened",
+      "slug": "no-17-and-no-18-are-awakened",
+      "date": "2021-07-09T05:07:31.000Z"
+    }, {
+      "id": 875508,
+      "number": 350,
+      "title": "No. 17, No. 18, and… No. 16",
+      "slug": "no-17-no-18-and-no-16",
+      "date": "2021-07-09T05:07:31.000Z"
+    }, {
+      "id": 875405,
+      "number": 351,
+      "title": "The Mysterious No. 16",
+      "slug": "the-mysterious-no-16",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875492,
+      "number": 352,
+      "title": "Vegeta vs No. 18",
+      "slug": "vegeta-vs-no-18",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875490,
+      "number": 353,
+      "title": "As You’d Expect of Vegeta",
+      "slug": "as-you-d-expect-of-vegeta",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875488,
+      "number": 354,
+      "title": "The Composed Artificial Humans",
+      "slug": "the-composed-artificial-humans",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875486,
+      "number": 355,
+      "title": "Piccolo’s Resolution",
+      "slug": "piccolo-s-resolution",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875484,
+      "number": 356,
+      "title": "God’s Conditions",
+      "slug": "god-s-conditions",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875483,
+      "number": 357,
+      "title": "News From Bulma",
+      "slug": "news-from-bulma",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875482,
+      "number": 358,
+      "title": "An Evil Premonition",
+      "slug": "an-evil-premonition",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875481,
+      "number": 359,
+      "title": "God Has Seen It!!",
+      "slug": "god-has-seen-it",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875480,
+      "number": 360,
+      "title": "The Union of God and the Demon King",
+      "slug": "the-union-of-god-and-the-demon-king",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875479,
+      "number": 361,
+      "title": "The Mysterious Monster, Finally Appears!!",
+      "slug": "the-mysterious-monster-finally-appears",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875478,
+      "number": 362,
+      "title": "A Duel in Ginger Town",
+      "slug": "a-duel-in-ginger-town",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875477,
+      "number": 363,
+      "title": "The Monster’s Riddle is Solved",
+      "slug": "the-monster-s-riddle-is-solved",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875476,
+      "number": 364,
+      "title": "Cell Laughs",
+      "slug": "cell-laughs",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875475,
+      "number": 365,
+      "title": "Son Goku Awakens",
+      "slug": "son-goku-awakens",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875474,
+      "number": 366,
+      "title": "The Saiyans’ Training",
+      "slug": "the-saiyans-training",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875473,
+      "number": 367,
+      "title": "The Reborn Piccolo vs No. 17",
+      "slug": "the-reborn-piccolo-vs-no-17",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875472,
+      "number": 368,
+      "title": "Cell Creeps Up",
+      "slug": "cell-creeps-up",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875471,
+      "number": 369,
+      "title": "The Artificial Humans vs Cell",
+      "slug": "the-artificial-humans-vs-cell",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875469,
+      "number": 370,
+      "title": "The Reborn Piccolo’s Do-or-Die Opposition",
+      "slug": "the-reborn-piccolo-s-do-or-die-opposition",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875468,
+      "number": 371,
+      "title": "No. 16 Stirs!",
+      "slug": "no-16-stirs",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875467,
+      "number": 372,
+      "title": "The Desperate No. 16’s Power!!",
+      "slug": "the-desperate-no-16-s-power",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875466,
+      "number": 373,
+      "title": "Prevent It! Cell’s Perfect Form",
+      "slug": "prevent-it-cell-s-perfect-form",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875465,
+      "number": 374,
+      "title": "Goku and Cell’s First Confrontation",
+      "slug": "goku-and-cell-s-first-confrontation",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875464,
+      "number": 375,
+      "title": "Vegeta and Trunks Depart!!",
+      "slug": "vegeta-and-trunks-depart",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875462,
+      "number": 376,
+      "title": "Vegeta’s Self-Confidence!",
+      "slug": "vegeta-s-self-confidence",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875460,
+      "number": 378,
+      "title": "Super Vegeta",
+      "slug": "super-vegeta",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875457,
+      "number": 379,
+      "title": "Cell’s Perfect Form, Interrupted?!",
+      "slug": "cell-s-perfect-form-interrupted",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875456,
+      "number": 380,
+      "title": "Run Away, No. 18!!",
+      "slug": "run-away-no-18",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875454,
+      "number": 381,
+      "title": "Vegeta’s Curiosity Saves Cell",
+      "slug": "vegeta-s-curiosity-saves-cell",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875452,
+      "number": 382,
+      "title": "Perfect Form Completed!!",
+      "slug": "perfect-form-completed",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875450,
+      "number": 383,
+      "title": "The Tables Turn!!",
+      "slug": "the-tables-turn",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875448,
+      "number": 384,
+      "title": "Vegeta’s Stubborn Secret Plan",
+      "slug": "vegeta-s-stubborn-secret-plan",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875446,
+      "number": 385,
+      "title": "Trunks Starts Up",
+      "slug": "trunks-starts-up",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875444,
+      "number": 386,
+      "title": "Super Trunks Surpasses His Father!",
+      "slug": "super-trunks-surpasses-his-father",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875442,
+      "number": 387,
+      "title": "The Balance of Super Power",
+      "slug": "the-balance-of-super-power",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875440,
+      "number": 388,
+      "title": "Cell’s Idea",
+      "slug": "cell-s-idea",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875438,
+      "number": 389,
+      "title": "A Terrifying Message",
+      "slug": "a-terrifying-message",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875436,
+      "number": 390,
+      "title": "Goku and Gohan Come Out",
+      "slug": "goku-and-gohan-come-out",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875433,
+      "number": 391,
+      "title": "A Rest Before the Big Showdown",
+      "slug": "a-rest-before-the-big-showdown",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875431,
+      "number": 392,
+      "title": "The Royal Army’s Resistance",
+      "slug": "the-royal-army-s-resistance",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875429,
+      "number": 393,
+      "title": "A New God",
+      "slug": "a-new-god",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875427,
+      "number": 394,
+      "title": "The Cell Games Begin",
+      "slug": "the-cell-games-begin",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875425,
+      "number": 395,
+      "title": "The Entire Group Gathers!!",
+      "slug": "the-entire-group-gathers",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875422,
+      "number": 396,
+      "title": "The Cell Game’s Dead Weight?!",
+      "slug": "the-cell-game-s-dead-weight",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875420,
+      "number": 397,
+      "title": "Cell vs Son Goku!!",
+      "slug": "cell-vs-son-goku",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875418,
+      "number": 397.5,
+      "title": "Trunks the Story –A Lone Warrior–",
+      "slug": "trunks-the-story-a-lone-warrior",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875416,
+      "number": 398,
+      "title": "Son Goku at Full Power",
+      "slug": "son-goku-at-full-power",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875414,
+      "number": 399,
+      "title": "Showdown at the Highest-Level",
+      "slug": "showdown-at-the-highest-level",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875412,
+      "number": 400,
+      "title": "Defeat or Death?!",
+      "slug": "defeat-or-death",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875409,
+      "number": 401,
+      "title": "A Full Power Kamehameha",
+      "slug": "a-full-power-kamehameha",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875407,
+      "number": 402,
+      "title": "Son Goku’s Puzzling Behavior",
+      "slug": "son-goku-s-puzzling-behavior",
+      "date": "2021-07-09T04:47:14.000Z"
+    }, {
+      "id": 875485,
+      "number": 403,
+      "title": "The Warrior Who Surpassed Goku",
+      "slug": "the-warrior-who-surpassed-goku",
+      "date": "2021-07-09T05:01:29.000Z"
+    }, {
+      "id": 875497,
+      "number": 404,
+      "title": "Take Off! Super Son Gohan",
+      "slug": "take-off-super-son-gohan",
+      "date": "2021-07-09T05:01:29.000Z"
+    }, {
+      "id": 875496,
+      "number": 405,
+      "title": "Will Son Gohan Get Angry?",
+      "slug": "will-son-gohan-get-angry",
+      "date": "2021-07-09T05:01:29.000Z"
+    }, {
+      "id": 875495,
+      "number": 406,
+      "title": "No. 16’s Secret Weapon",
+      "slug": "no-16-s-secret-weapon",
+      "date": "2021-07-09T05:01:29.000Z"
+    }, {
+      "id": 875494,
+      "number": 407,
+      "title": "The Hell of the Cell Juniors",
+      "slug": "the-hell-of-the-cell-juniors",
+      "date": "2021-07-09T05:01:29.000Z"
+    }, {
+      "id": 875493,
+      "number": 408,
+      "title": "Son Gohan Explodes!!",
+      "slug": "son-gohan-explodes",
+      "date": "2021-07-09T05:01:29.000Z"
+    }, {
+      "id": 875491,
+      "number": 409,
+      "title": "Seriousness vs Seriousness",
+      "slug": "seriousness-vs-seriousness",
+      "date": "2021-07-09T05:01:29.000Z"
+    }, {
+      "id": 875489,
+      "number": 410,
+      "title": "The Ultimate Kamehameha",
+      "slug": "the-ultimate-kamehameha",
+      "date": "2021-07-09T05:01:29.000Z"
+    }, {
+      "id": 875487,
+      "number": 411,
+      "title": "Cell, Driven to the Wall",
+      "slug": "cell-driven-to-the-wall",
+      "date": "2021-07-09T05:01:29.000Z"
+    }, {
+      "id": 875509,
+      "number": 412,
+      "title": "The End of the Cell Games",
+      "slug": "the-end-of-the-cell-games",
+      "date": "2021-07-09T05:07:31.000Z"
+    }, {
+      "id": 875505,
+      "number": 413,
+      "title": "Son Gohan in Agony",
+      "slug": "son-gohan-in-agony",
+      "date": "2021-07-09T05:07:31.000Z"
+    }, {
+      "id": 875506,
+      "number": 414,
+      "title": "An Unexpected Turning of the Tables",
+      "slug": "an-unexpected-turning-of-the-tables",
+      "date": "2021-07-09T05:07:31.000Z"
+    }, {
+      "id": 875504,
+      "number": 415,
+      "title": "A Message From Son Goku",
+      "slug": "a-message-from-son-goku",
+      "date": "2021-07-09T05:07:31.000Z"
+    }, {
+      "id": 875503,
+      "number": 416,
+      "title": "Kamehameha vs Kamehameha: A Final Showdown",
+      "slug": "kamehameha-vs-kamehameha-a-final-showdown",
+      "date": "2021-07-09T05:07:31.000Z"
+    }, {
+      "id": 875521,
+      "number": 417,
+      "title": "Vol.35 - Chapter 417",
+      "slug": "vol-35-chapter-417",
+      "date": "2021-07-09T05:09:36.000Z"
+    }, {
+      "id": 875560,
+      "number": 419,
+      "title": "Vol.35 - Chapter 419",
+      "slug": "vol-35-chapter-419",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875561,
+      "number": 420,
+      "title": "Vol.35 - Chapter 420",
+      "slug": "vol-35-chapter-420",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875562,
+      "number": 421,
+      "title": "Vol.36 - Chapter 421",
+      "slug": "vol-36-chapter-421",
+      "date": "2021-07-09T05:13:26.000Z"
+    }, {
+      "id": 875626,
+      "number": 423,
+      "title": "The Birth of a New Hero!!",
+      "slug": "the-birth-of-a-new-hero",
+      "date": "2021-07-09T05:17:34.000Z"
+    }, {
+      "id": 875625,
+      "number": 424,
+      "title": "Videl Emergency Dispatch!!",
+      "slug": "videl-emergency-dispatch",
+      "date": "2021-07-09T05:17:34.000Z"
+    }, {
+      "id": 875624,
+      "number": 425,
+      "title": "Exposed!!!",
+      "slug": "exposed",
+      "date": "2021-07-09T05:17:34.000Z"
+    }, {
+      "id": 875742,
+      "number": 426,
+      "title": "The Tenka’ichi Budōkai",
+      "slug": "the-tenka-ichi-bud-kai",
+      "date": "2021-07-09T05:41:27.000Z"
+    }, {
+      "id": 875740,
+      "number": 427,
+      "title": "The Special Training Begins!!",
+      "slug": "the-special-training-begins",
+      "date": "2021-07-09T05:41:27.000Z"
+    }, {
+      "id": 875738,
+      "number": 429,
+      "title": "The Tenka’ichi Budōkai Draws Near",
+      "slug": "the-tenka-ichi-bud-kai-draws-near",
+      "date": "2021-07-09T05:41:27.000Z"
+    }, {
+      "id": 875729,
+      "number": 430,
+      "title": "The Dragon Team Gathers!!",
+      "slug": "the-dragon-team-gathers",
+      "date": "2021-07-09T05:41:27.000Z"
+    }, {
+      "id": 875733,
+      "number": 431,
+      "title": "The Preliminaries Begin",
+      "slug": "the-preliminaries-begin",
+      "date": "2021-07-09T05:41:27.000Z"
+    }, {
+      "id": 875728,
+      "number": 432,
+      "title": "The Two Small Super Warriors",
+      "slug": "the-two-small-super-warriors",
+      "date": "2021-07-09T05:41:27.000Z"
+    }, {
+      "id": 875726,
+      "number": 433,
+      "title": "Trunks vs Son Goten",
+      "slug": "trunks-vs-son-goten",
+      "date": "2021-07-09T05:41:27.000Z"
+    }, {
+      "id": 875724,
+      "number": 434,
+      "title": "Trunks vs Son Goten 2",
+      "slug": "trunks-vs-son-goten-2",
+      "date": "2021-07-09T05:41:27.000Z"
+    }, {
+      "id": 875715,
+      "number": 435,
+      "title": "The “Boys Division” Winner is Decided!",
+      "slug": "the-boys-division-winner-is-decided",
+      "date": "2021-07-09T05:41:27.000Z"
+    }, {
+      "id": 875714,
+      "number": 437,
+      "title": "A Mysterious Pair",
+      "slug": "a-mysterious-pair",
+      "date": "2021-07-09T05:41:27.000Z"
+    }, {
+      "id": 875717,
+      "number": 438,
+      "title": "The Match-Ups Are Decided!",
+      "slug": "the-match-ups-are-decided",
+      "date": "2021-07-09T05:41:27.000Z"
+    }, {
+      "id": 875711,
+      "number": 439,
+      "title": "Kuririn and Piccolo’s Fights",
+      "slug": "kuririn-and-piccolo-s-fights",
+      "date": "2021-07-09T05:41:27.000Z"
+    }, {
+      "id": 875710,
+      "number": 440,
+      "title": "Shin’s Surprising True Identity",
+      "slug": "shin-s-surprising-true-identity",
+      "date": "2021-07-09T05:41:27.000Z"
+    }, {
+      "id": 875699,
+      "number": 441,
+      "title": "Videl is Worn Ragged",
+      "slug": "videl-is-worn-ragged",
+      "date": "2021-07-09T05:41:27.000Z"
+    }, {
+      "id": 875704,
+      "number": 442,
+      "title": "Gohan Gets Angry!!",
+      "slug": "gohan-gets-angry",
+      "date": "2021-07-09T05:41:27.000Z"
+    }, {
+      "id": 875702,
+      "number": 443,
+      "title": "The Plan Goes into Motion",
+      "slug": "the-plan-goes-into-motion",
+      "date": "2021-07-09T05:41:27.000Z"
+    }, {
+      "id": 875703,
+      "number": 444,
+      "title": "Stolen Energy",
+      "slug": "stolen-energy",
+      "date": "2021-07-09T05:41:27.000Z"
+    }, {
+      "id": 875705,
+      "number": 445,
+      "title": "A Frightful Mystery",
+      "slug": "a-frightful-mystery",
+      "date": "2021-07-09T05:41:27.000Z"
+    }, {
+      "id": 876589,
+      "number": 446,
+      "title": "The Dark Mage Bobbidi",
+      "slug": "the-dark-mage-bobbidi",
+      "date": "2021-07-09T20:01:02.000Z"
+    }, {
+      "id": 876586,
+      "number": 447,
+      "title": "Bobbidi Knows",
+      "slug": "bobbidi-knows",
+      "date": "2021-07-09T20:01:02.000Z"
+    }, {
+      "id": 876585,
+      "number": 448,
+      "title": "One Must Enter the Tiger’s Den…",
+      "slug": "one-must-enter-the-tiger-s-den",
+      "date": "2021-07-09T20:01:02.000Z"
+    }, {
+      "id": 876588,
+      "number": 449,
+      "title": "The Game",
+      "slug": "the-game",
+      "date": "2021-07-09T20:01:02.000Z"
+    }, {
+      "id": 876580,
+      "number": 450,
+      "title": "Stage Two’s Yakon",
+      "slug": "stage-two-s-yakon",
+      "date": "2021-07-09T20:01:02.000Z"
+    }, {
+      "id": 876578,
+      "number": 451,
+      "title": "The Demon Beast Yakon’s Feast",
+      "slug": "the-demon-beast-yakon-s-feast",
+      "date": "2021-07-09T20:01:02.000Z"
+    }, {
+      "id": 876579,
+      "number": 452,
+      "title": "Dabra Takes the Stage!!",
+      "slug": "dabra-takes-the-stage",
+      "date": "2021-07-09T20:01:02.000Z"
+    }, {
+      "id": 876582,
+      "number": 453,
+      "title": "The Fate of the Finals",
+      "slug": "the-fate-of-the-finals",
+      "date": "2021-07-09T20:01:02.000Z"
+    }, {
+      "id": 876581,
+      "number": 454,
+      "title": "The Winner is Decided!!!",
+      "slug": "the-winner-is-decided",
+      "date": "2021-07-09T20:01:02.000Z"
+    }, {
+      "id": 876604,
+      "number": 455,
+      "title": "An Evil Heart is Found",
+      "slug": "an-evil-heart-is-found",
+      "date": "2021-07-09T20:16:11.000Z"
+    }, {
+      "id": 876606,
+      "number": 456,
+      "title": "The Fated Showdown: Son Goku vs Vegeta",
+      "slug": "the-fated-showdown-son-goku-vs-vegeta",
+      "date": "2021-07-09T20:16:11.000Z"
+    }, {
+      "id": 876603,
+      "number": 457,
+      "title": "Vegeta’s Pride",
+      "slug": "vegeta-s-pride",
+      "date": "2021-07-09T20:16:11.000Z"
+    }, {
+      "id": 876605,
+      "number": 458,
+      "title": "Two Deadly Battles",
+      "slug": "two-deadly-battles",
+      "date": "2021-07-09T20:16:11.000Z"
+    }, {
+      "id": 876607,
+      "number": 459,
+      "title": "Countdown",
+      "slug": "countdown",
+      "date": "2021-07-09T20:16:11.000Z"
+    }, {
+      "id": 876672,
+      "number": 460,
+      "title": "Majin Boo Appears?!",
+      "slug": "majin-boo-appears",
+      "date": "2021-07-09T20:45:51.000Z"
+    }, {
+      "id": 876674,
+      "number": 461,
+      "title": "This is Majin Boo?!",
+      "slug": "this-is-majin-boo",
+      "date": "2021-07-09T20:45:51.000Z"
+    }, {
+      "id": 876673,
+      "number": 462,
+      "title": "Majin Boo’s Menace",
+      "slug": "majin-boo-s-menace",
+      "date": "2021-07-09T20:45:51.000Z"
+    }, {
+      "id": 876675,
+      "number": 463,
+      "title": "An Overwhelming, Bizarre Power",
+      "slug": "an-overwhelming-bizarre-power",
+      "date": "2021-07-09T20:45:51.000Z"
+    }, {
+      "id": 876676,
+      "number": 464,
+      "title": "Vegeta’s Final Deathmatch",
+      "slug": "vegeta-s-final-deathmatch",
+      "date": "2021-07-09T20:45:51.000Z"
+    }, {
+      "id": 876678,
+      "number": 465,
+      "title": "Majin Boo Gets Angry",
+      "slug": "majin-boo-gets-angry",
+      "date": "2021-07-09T20:45:51.000Z"
+    }, {
+      "id": 876680,
+      "number": 466,
+      "title": "The End of the Man Behind the Curtain",
+      "slug": "the-end-of-the-man-behind-the-curtain",
+      "date": "2021-07-09T20:45:51.000Z"
+    }, {
+      "id": 876679,
+      "number": 467,
+      "title": "Farewell, Proud Warrior",
+      "slug": "farewell-proud-warrior",
+      "date": "2021-07-09T20:45:51.000Z"
+    }, {
+      "id": 876677,
+      "number": 468,
+      "title": "The Nightmare Returns",
+      "slug": "the-nightmare-returns",
+      "date": "2021-07-09T20:45:51.000Z"
+    }, {
+      "id": 876686,
+      "number": 469,
+      "title": "A Faint Hope",
+      "slug": "a-faint-hope",
+      "date": "2021-07-09T21:00:49.000Z"
+    }, {
+      "id": 876687,
+      "number": 470,
+      "title": "Bobbidi’s Revenge Operation Begins!!",
+      "slug": "bobbidi-s-revenge-operation-begins",
+      "date": "2021-07-09T21:00:49.000Z"
+    }, {
+      "id": 876685,
+      "number": 471,
+      "title": "A Time of Tribulation",
+      "slug": "a-time-of-tribulation",
+      "date": "2021-07-09T21:00:49.000Z"
+    }, {
+      "id": 876684,
+      "number": 472,
+      "title": "The Z Sword",
+      "slug": "the-z-sword",
+      "date": "2021-07-09T21:00:49.000Z"
+    }, {
+      "id": 876683,
+      "number": 473,
+      "title": "Son Goku Contacts Majin Boo!",
+      "slug": "son-goku-contacts-majin-boo",
+      "date": "2021-07-09T21:00:49.000Z"
+    }, {
+      "id": 876695,
+      "number": 474,
+      "title": "The Limit!! Super Saiyan 3",
+      "slug": "the-limit-super-saiyan-3",
+      "date": "2021-07-09T21:00:49.000Z"
+    }, {
+      "id": 876705,
+      "number": 475,
+      "title": "Majin Boo Begins to See His True Worth",
+      "slug": "majin-boo-begins-to-see-his-true-worth",
+      "date": "2021-07-09T21:22:40.000Z"
+    }, {
+      "id": 876689,
+      "number": 476,
+      "title": "Son Goku’s Remaining Time",
+      "slug": "son-goku-s-remaining-time",
+      "date": "2021-07-09T21:00:49.000Z"
+    }, {
+      "id": 876688,
+      "number": 477,
+      "title": "Son Goku Heads Back",
+      "slug": "son-goku-heads-back",
+      "date": "2021-07-09T21:00:49.000Z"
+    }, {
+      "id": 876706,
+      "number": 478,
+      "title": "Son Gohan’s Whereabouts",
+      "slug": "son-gohan-s-whereabouts",
+      "date": "2021-07-09T21:22:40.000Z"
+    }, {
+      "id": 876717,
+      "number": 479,
+      "title": "The Z Sword and Another Kaiōshin",
+      "slug": "the-z-sword-and-another-kai-shin",
+      "date": "2021-07-09T21:45:43.000Z"
+    }, {
+      "id": 876702,
+      "number": 480,
+      "title": "The Fusion is Completed at Last!!",
+      "slug": "the-fusion-is-completed-at-last",
+      "date": "2021-07-09T21:22:40.000Z"
+    }, {
+      "id": 876696,
+      "number": 481,
+      "title": "The Earth Army’s Ultimate Secret Weapon!!",
+      "slug": "the-earth-army-s-ultimate-secret-weapon",
+      "date": "2021-07-09T21:22:40.000Z"
+    }, {
+      "id": 876697,
+      "number": 482,
+      "title": "Perfected at Last! Super Fusion!!",
+      "slug": "perfected-at-last-super-fusion",
+      "date": "2021-07-09T21:22:40.000Z"
+    }, {
+      "id": 876699,
+      "number": 483,
+      "title": "Majin Boo and Friends",
+      "slug": "majin-boo-and-friends",
+      "date": "2021-07-09T21:22:40.000Z"
+    }, {
+      "id": 876698,
+      "number": 484,
+      "title": "That Which is Brought Forth by Anger",
+      "slug": "that-which-is-brought-forth-by-anger",
+      "date": "2021-07-09T21:22:40.000Z"
+    }, {
+      "id": 876700,
+      "number": 485,
+      "title": "The Two Majin Boos… And Then…",
+      "slug": "the-two-majin-boos-and-then",
+      "date": "2021-07-09T21:22:40.000Z"
+    }, {
+      "id": 877012,
+      "number": 486,
+      "title": "The Terrible New Majin Boo",
+      "slug": "the-terrible-new-majin-boo",
+      "date": "2021-07-10T04:26:02.000Z"
+    }, {
+      "id": 877009,
+      "number": 487,
+      "title": "The Extinction of Humanity",
+      "slug": "the-extinction-of-humanity",
+      "date": "2021-07-10T04:26:02.000Z"
+    }, {
+      "id": 877010,
+      "number": 488,
+      "title": "Trunks and Goten Enter the Room of Spirit and Time",
+      "slug": "trunks-and-goten-enter-the-room-of-spirit-and-time",
+      "date": "2021-07-10T04:26:02.000Z"
+    }, {
+      "id": 877011,
+      "number": 489,
+      "title": "Gotenks’ Got Confidence!!",
+      "slug": "gotenks-got-confidence",
+      "date": "2021-07-10T04:26:02.000Z"
+    }, {
+      "id": 877008,
+      "number": 490,
+      "title": "Gotenks’ Got Loads of Confidence!!",
+      "slug": "gotenks-got-loads-of-confidence",
+      "date": "2021-07-10T04:26:02.000Z"
+    }, {
+      "id": 877022,
+      "number": 491,
+      "title": "A Surefire Kamikaze Attack!",
+      "slug": "a-surefire-kamikaze-attack",
+      "date": "2021-07-10T04:26:02.000Z"
+    }, {
+      "id": 877021,
+      "number": 492,
+      "title": "The Alternate Dimension is Sealed Off",
+      "slug": "the-alternate-dimension-is-sealed-off",
+      "date": "2021-07-10T04:26:02.000Z"
+    }, {
+      "id": 877020,
+      "number": 493,
+      "title": "Escape from the Alternate Dimension",
+      "slug": "escape-from-the-alternate-dimension",
+      "date": "2021-07-10T04:26:02.000Z"
+    }, {
+      "id": 877018,
+      "number": 494,
+      "title": "Do Your Best, Super Gotenks-kun",
+      "slug": "do-your-best-super-gotenks-kun",
+      "date": "2021-07-10T04:26:02.000Z"
+    }, {
+      "id": 877019,
+      "number": 495,
+      "title": "He’s So Strong!! The Super Fusion",
+      "slug": "he-s-so-strong-the-super-fusion",
+      "date": "2021-07-10T04:26:02.000Z"
+    }, {
+      "id": 877017,
+      "number": 496,
+      "title": "A Desperate Big-Big-Big Pinch!!",
+      "slug": "a-desperate-big-big-big-pinch",
+      "date": "2021-07-10T04:26:02.000Z"
+    }, {
+      "id": 877015,
+      "number": 497,
+      "title": "Son Gohan’s Grand Counterattack!!",
+      "slug": "son-gohan-s-grand-counterattack",
+      "date": "2021-07-10T04:26:02.000Z"
+    }, {
+      "id": 877014,
+      "number": 498,
+      "title": "Majin Boo’s Erratic Behavior",
+      "slug": "majin-boo-s-erratic-behavior",
+      "date": "2021-07-10T04:26:02.000Z"
+    }, {
+      "id": 877016,
+      "number": 499,
+      "title": "A Trap",
+      "slug": "a-trap",
+      "date": "2021-07-10T04:26:02.000Z"
+    }, {
+      "id": 877013,
+      "number": 500,
+      "title": "A Great Reversal",
+      "slug": "a-great-reversal",
+      "date": "2021-07-10T04:26:02.000Z"
+    }, {
+      "id": 877026,
+      "number": 501,
+      "title": "A Savior Appears?!",
+      "slug": "a-savior-appears",
+      "date": "2021-07-10T04:41:03.000Z"
+    }, {
+      "id": 877025,
+      "number": 502,
+      "title": "Is This Gonna Work?! The Potara Fusion!",
+      "slug": "is-this-gonna-work-the-potara-fusion",
+      "date": "2021-07-10T04:41:03.000Z"
+    }, {
+      "id": 878326,
+      "number": 503,
+      "title": "Son Goku’s Final Fusion!!",
+      "slug": "son-goku-s-final-fusion",
+      "date": "2021-07-11T05:56:03.000Z"
+    }, {
+      "id": 878328,
+      "number": 504,
+      "title": "The Fused Fathers are Unbeatable",
+      "slug": "the-fused-fathers-are-unbeatable",
+      "date": "2021-07-11T05:56:03.000Z"
+    }, {
+      "id": 878327,
+      "number": 505,
+      "title": "Vegetto the Instigator",
+      "slug": "vegetto-the-instigator",
+      "date": "2021-07-11T05:56:03.000Z"
+    }, {
+      "id": 878343,
+      "number": 506,
+      "title": "Goku and Vegeta Inside of Boo",
+      "slug": "goku-and-vegeta-inside-of-boo",
+      "date": "2021-07-11T06:11:03.000Z"
+    }, {
+      "id": 878345,
+      "number": 507,
+      "title": "Boo and Boo Inside of Boo",
+      "slug": "boo-and-boo-inside-of-boo",
+      "date": "2021-07-11T06:11:03.000Z"
+    }, {
+      "id": 878341,
+      "number": 508,
+      "title": "The Pure Majin Boo",
+      "slug": "the-pure-majin-boo",
+      "date": "2021-07-11T06:11:03.000Z"
+    }, {
+      "id": 878344,
+      "number": 509,
+      "title": "A Match with the Whole Universe at Stake",
+      "slug": "a-match-with-the-whole-universe-at-stake",
+      "date": "2021-07-11T06:11:03.000Z"
+    }, {
+      "id": 878342,
+      "number": 510,
+      "title": "Vegeta and Kakarrot",
+      "slug": "vegeta-and-kakarrot",
+      "date": "2021-07-11T06:11:03.000Z"
+    }, {
+      "id": 878357,
+      "number": 511,
+      "title": "Vegeta Puts His Life on the Line",
+      "slug": "vegeta-puts-his-life-on-the-line",
+      "date": "2021-07-11T06:11:03.000Z"
+    }, {
+      "id": 878356,
+      "number": 512,
+      "title": "Super Saiyan 3 Vanishes",
+      "slug": "super-saiyan-3-vanishes",
+      "date": "2021-07-11T06:11:03.000Z"
+    }, {
+      "id": 878355,
+      "number": 513,
+      "title": "Vegeta’s Idea",
+      "slug": "vegeta-s-idea",
+      "date": "2021-07-11T06:11:03.000Z"
+    }, {
+      "id": 878354,
+      "number": 514,
+      "title": "A Message for the Revived People of Earth",
+      "slug": "a-message-for-the-revived-people-of-earth",
+      "date": "2021-07-11T06:11:03.000Z"
+    }, {
+      "id": 878351,
+      "number": 515,
+      "title": "Energy Won’t Gather for the Genki-Dama",
+      "slug": "energy-won-t-gather-for-the-genki-dama",
+      "date": "2021-07-11T06:11:03.000Z"
+    }, {
+      "id": 878352,
+      "number": 516,
+      "title": "Conclusion",
+      "slug": "conclusion",
+      "date": "2021-07-11T06:11:03.000Z"
+    }, {
+      "id": 878349,
+      "number": 517,
+      "title": "The Grand Finale, And Then…",
+      "slug": "the-grand-finale-and-then",
+      "date": "2021-07-11T06:11:03.000Z"
+    }, {
+      "id": 878350,
+      "number": 518,
+      "title": "And So, After 10 Years",
+      "slug": "and-so-after-10-years",
+      "date": "2021-07-11T06:11:03.000Z"
+    }, {
+      "id": 878353,
+      "number": 519,
+      "title": "Bye-Bye, Dragon World",
+      "slug": "bye-bye-dragon-world",
+      "date": "2021-07-11T06:11:03.000Z"
+    }]
+  }
+}]

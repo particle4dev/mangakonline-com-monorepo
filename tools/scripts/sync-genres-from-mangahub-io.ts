@@ -14,6 +14,27 @@
 //   -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36' \
 //   -d '{"query":"query GET_ALL_GENRES_DATA_FROM_MANGAHUB_IO {genres {id slug title}}"}'
 
+// OR
+
+// var options = {
+//   method: 'POST',
+//   headers: {
+//     'cache-control': 'no-cache',
+//     accept: '*/*',
+//     'content-type': 'application/json',
+//     'sec-ch-ua-platform': '\\"macOS\\"',
+//     'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36',
+//     'sec-ch-ua-mobile': '?0',
+//     'sec-ch-ua': '\\"Chromium\\";v=\\"94\\", \\"Google Chrome\\";v=\\"94\\", \\";Not A Brand\\";v=\\"99\\"'
+//   },
+//   body: JSON.stringify({
+//     query: 'query GET_ALL_GENRES_DATA_FROM_MANGAHUB_IO {genres {id slug title}}'
+//   }),
+// };
+
+// fetch('https://api.mghubcdn.com/graphql', options).then(response => response.json())
+//   .then(data => console.log(data));
+
 import fetch from 'isomorphic-fetch';
 import minimist from 'minimist';
 import { get } from 'dot-prop';
