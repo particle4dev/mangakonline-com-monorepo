@@ -90,7 +90,12 @@ async function insertImageToMediaServer(url: string, alt: string): Promise<strin
     }),
   }).then(result => result.json());
 
-  console.log(JSON.stringify(errors), 'insertImageToMediaServer')
+  if(errors) {
+    for(let i = 0; i < errors.length; i+= 1) {
+      const e = errors[i];
+      console.error(`${e.message} in ${JSON.stringify(e.locations)}`);
+    }
+  }
 
   return get(data, 'addNewPictureURL.picture._id', null);
 }
@@ -125,7 +130,12 @@ async function insertMangaToCatalogServer(title: string, slug: string, cover: st
     }),
   }).then(result => result.json());
 
-  console.log(JSON.stringify(errors), 'insertMangaToCatalogServer')
+  if(errors) {
+    for(let i = 0; i < errors.length; i+= 1) {
+      const e = errors[i];
+      console.error(`${e.message} in ${JSON.stringify(e.locations)}`);
+    }
+  }
 
   // console.log(JSON.stringify(data), errors, result);
   return get(data, 'createNewBook.book._id', null);
@@ -150,7 +160,12 @@ async function getCategoryDataFromGateway(label: string) {
     }),
   }).then(result => result.json());
 
-  console.log(JSON.stringify(errors), 'getCategoryDataFromGateway')
+  if(errors) {
+    for(let i = 0; i < errors.length; i+= 1) {
+      const e = errors[i];
+      console.error(`${e.message} in ${JSON.stringify(e.locations)}`);
+    }
+  }
 
   return get(data, 'findCategoryByLabel._id', null);
 }
@@ -158,7 +173,7 @@ async function getCategoryDataFromGateway(label: string) {
 async function getMangaDataFromGateway(slug: string) {
   const graphql = argv['url'] || 'http://localhost:4300/graphql';
 
-  const { data } = await fetch(graphql, {
+  const { data, errors } = await fetch(graphql, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
@@ -174,6 +189,13 @@ async function getMangaDataFromGateway(slug: string) {
     }),
   }).then(result => result.json());
 
+  if(errors) {
+    for(let i = 0; i < errors.length; i+= 1) {
+      const e = errors[i];
+      console.error(`${e.message} in ${JSON.stringify(e.locations)}`);
+    }
+  }
+  
   return get(data, 'findBookBySlug', null);
 }
 
