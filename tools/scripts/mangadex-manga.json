@@ -1,0 +1,213 @@
+{
+  "result":"ok",
+  "response":"entity",
+  "data":{
+    "id":"18543708-eed6-4b84-b3fd-f67540b4ebbd",
+    "type":"manga",
+    "attributes":{
+      "title":{
+        "en":"Yaiba"
+      },
+      "altTitles":[
+        {
+          "en":"Yaiba!"
+        },
+        {
+          "en":"やいば"
+        },
+        {
+          "en":"城市风云儿"
+        }
+      ],
+      "description":{
+        "en":"**From Toriyama's World:**  \nYaiba's whole life has been spent training to be a samurai and he doesn't know about anything else, not even girls. When he returns to Japan, a pair of cursed swords makes life even more exciting… and hilarious.  \n  \nNote: Starting at chapter 80, EMS Team started using bunko scans, so the volume numbering is a little different.  \n  \nIn 1993 Yaiba received the Shogakukan Manga Award."
+      },
+      "links":{
+        "al":"31631",
+        "ap":"yaiba",
+        "kt":"3479",
+        "mu":"1735",
+        "amz":"https://www.amazon.co.jp/gp/product/B074CGTJ91",
+        "mal":"1631"
+      },
+      "originalLanguage":"ja",
+      "lastVolume":"24",
+      "lastChapter":"255",
+      "publicationDemographic":"shounen",
+      "status":"completed",
+      "year":null,
+      "contentRating":"safe",
+      "tags":[
+        {
+          "id":"0a39b5a1-b235-4886-a747-1d05d216532d",
+          "type":"tag",
+          "attributes":{
+            "name":{
+              "en":"Award Winning"
+            },
+            "description":[
+              
+            ],
+            "group":"format",
+            "version":1
+          },
+          "relationships":[
+            
+          ]
+        },
+        {
+          "id":"391b0423-d847-456f-aff0-8b0cfc03066b",
+          "type":"tag",
+          "attributes":{
+            "name":{
+              "en":"Action"
+            },
+            "description":[
+              
+            ],
+            "group":"genre",
+            "version":1
+          },
+          "relationships":[
+            
+          ]
+        },
+        {
+          "id":"4d32cc48-9f00-4cca-9b5a-a839f0764984",
+          "type":"tag",
+          "attributes":{
+            "name":{
+              "en":"Comedy"
+            },
+            "description":[
+              
+            ],
+            "group":"genre",
+            "version":1
+          },
+          "relationships":[
+            
+          ]
+        },
+        {
+          "id":"87cc87cd-a395-47af-b27a-93258283bbc6",
+          "type":"tag",
+          "attributes":{
+            "name":{
+              "en":"Adventure"
+            },
+            "description":[
+              
+            ],
+            "group":"genre",
+            "version":1
+          },
+          "relationships":[
+            
+          ]
+        },
+        {
+          "id":"cdc58593-87dd-415e-bbc0-2ec27bf404cc",
+          "type":"tag",
+          "attributes":{
+            "name":{
+              "en":"Fantasy"
+            },
+            "description":[
+              
+            ],
+            "group":"genre",
+            "version":1
+          },
+          "relationships":[
+            
+          ]
+        },
+        {
+          "id":"eabc5b4c-6aff-42f3-b657-3e90cbd00b75",
+          "type":"tag",
+          "attributes":{
+            "name":{
+              "en":"Supernatural"
+            },
+            "description":[
+              
+            ],
+            "group":"theme",
+            "version":1
+          },
+          "relationships":[
+            
+          ]
+        }
+      ],
+      "createdAt":"2018-02-15T12:55:56+00:00",
+      "updatedAt":"2021-05-25T15:39:55+00:00",
+      "version":2
+    },
+    "relationships":[
+      {
+        "id":"0f9c4022-f058-4fa3-bf14-47f81371560b",
+        "type":"author",
+        "attributes":{
+          "name":"Aoyama Gosho",
+          "imageUrl":null,
+          "biography":[
+            
+          ],
+          "twitter":null,
+          "pixiv":null,
+          "melonBook":null,
+          "fanBox":null,
+          "booth":null,
+          "nicoVideo":null,
+          "skeb":null,
+          "fantia":null,
+          "tumblr":null,
+          "youtube":null,
+          "website":null,
+          "createdAt":"2021-04-19T21:59:45+00:00",
+          "updatedAt":"2021-04-19T21:59:45+00:00",
+          "version":1
+        }
+      },
+      {
+        "id":"0f9c4022-f058-4fa3-bf14-47f81371560b",
+        "type":"artist",
+        "attributes":{
+          "name":"Aoyama Gosho",
+          "imageUrl":null,
+          "biography":[
+            
+          ],
+          "twitter":null,
+          "pixiv":null,
+          "melonBook":null,
+          "fanBox":null,
+          "booth":null,
+          "nicoVideo":null,
+          "skeb":null,
+          "fantia":null,
+          "tumblr":null,
+          "youtube":null,
+          "website":null,
+          "createdAt":"2021-04-19T21:59:45+00:00",
+          "updatedAt":"2021-04-19T21:59:45+00:00",
+          "version":1
+        }
+      },
+      {
+        "id":"85d14516-4282-4f62-b447-1dd1a77db287",
+        "type":"cover_art",
+        "attributes":{
+          "description":"",
+          "volume":null,
+          "fileName":"010360fa-b058-4b6d-9c77-5cb6f80e3a61.jpg",
+          "createdAt":"2021-05-24T16:47:20+00:00",
+          "updatedAt":"2021-05-24T16:47:20+00:00",
+          "version":1
+        }
+      }
+    ]
+  }
+}
